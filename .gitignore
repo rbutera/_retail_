@@ -1,0 +1,19 @@
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# OS X
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+Cache
+Logs
+Utils
+*.app
+*.exe
+
+.curseclient
+.flavor.info

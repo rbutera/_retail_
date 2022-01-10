@@ -1,0 +1,88 @@
+VER 3 010000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomodifier] Disable
+/cast [modifier: shift, @player] Tiger's Lust
+/cast [modifier:ctrl, @player] Vivify
+END
+VER 3 0100000000000003 "BK" "INV_MISC_QUESTIONMARK"
+#showtooltip Blackout Kick
+/stopmacro [channeling:Fists of Fury]
+/stopcasting [channeling:Crackling Jade Lightning]
+/cast Blackout Kick
+END
+VER 3 0100000000000009 "Brew" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:ctrl] Healing Elixir
+/cast [nomodifier] Ironskin Brew
+/cast [modifier:shift] Purifying Brew
+END
+VER 3 0100000000000004 "CB" "INV_MISC_QUESTIONMARK"
+#showtooltip Chi Burst
+/stopmacro [channeling:Fists of Fury]
+/stopcasting [channeling:Crackling Jade Lightning]
+/cast Chi Burst
+END
+VER 3 010000000000000F "CW" "INV_MISC_QUESTIONMARK"
+#showtooltip Chi Wave
+/stopmacro [channeling:Fists of Fury]
+/stopcasting [channeling:Crackling Jade Lightning]
+/cast Chi Wave
+END
+VER 3 0100000000000008 "Detox" "INV_MISC_QUESTIONMARK"
+#showtooltip Detox
+/cast [@mouseover,help,nodead] Detox;Detox
+END
+VER 3 010000000000000A "Elixir" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:ctrl] Healing Elixir
+/cast [@player, modifier:shift] Tiger's Lust
+/cast [nomodifier] Expel Harm
+END
+VER 3 010000000000000E "Interrupt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier: shift. @mouseover] Spear Hand Strike
+/cast [nomodifier] Spear Hand Strike
+/cast [modifier: alt, @focus] Spear Hand Strike
+END
+VER 3 0100000000000005 "RSK" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/stopmacro [channeling:Fists of Fury]
+/stopcasting [channeling:Crackling Jade Lightning]
+/cast [nomodifier] Rising Sun Kick
+/cast [modifier: shift] Whirling Dragon Punch
+END
+VER 3 0100000000000006 "SCK" "INV_MISC_QUESTIONMARK"
+#showtooltip Spinning Crane Kick
+/stopmacro [channeling:Fists of Fury]
+/stopcasting [channeling:Crackling Jade Lightning]
+/cast Spinning Crane Kick
+END
+VER 3 010000000000000B "SEFTrinket" "INV_MISC_QUESTIONMARK"
+#showtooltip Storm, Earth, and Fire
+/stopmacro [channeling:Fists of Fury]
+/cast Storm, Earth, and Fire
+/use Galecaller's Boon
+ 
+END
+VER 3 0100000000000007 "T" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [modifier:shift] Transcendence: Transfer
+/cast [nomodifier] Transcendence
+END
+VER 3 0100000000000001 "taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip Provoke
+/target Black Ox Statue
+/cast Provoke
+/targetlasttarget
+END
+VER 3 010000000000000C "TL" "651727"
+/cast [modifier:shift, @mouseover] Tiger's Lust 
+/cast [nomodifier, @player] Tiger's Lust
+END
+VER 3 0100000000000002 "TP" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/stopmacro [channeling:Fists of Fury]
+/stopcasting [channeling:Crackling Jade Lightning]
+/cast [nomodifier] Tiger Palm
+/cast [modifier:shift] Fist of the White Tiger
+END

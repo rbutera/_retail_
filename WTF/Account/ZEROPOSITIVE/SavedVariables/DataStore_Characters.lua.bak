@@ -1,0 +1,34 @@
+
+DataStore_CharactersDB = {
+	["profileKeys"] = {
+		["Ryugasm - Draenor"] = "Ryugasm - Draenor",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Draenor.Ryugasm"] = {
+				["XPMax"] = 194030,
+				["played"] = 510189,
+				["playedThisLevel"] = 314400,
+				["isResting"] = true,
+				["lastUpdate"] = 1641829420,
+				["class"] = "Monk",
+				["race"] = "Blood Elf",
+				["level"] = 50,
+				["XP"] = 0,
+				["RestXP"] = 128350,
+				["money"] = 400726602,
+				["gender"] = 2,
+				["classID"] = 10,
+				["englishClass"] = "MONK",
+				["bindLocation"] = "Spirits Be With You",
+				["localizedFaction"] = "Horde",
+				["subZone"] = "Temple of Five Dawns",
+				["faction"] = "Horde",
+				["englishRace"] = "BloodElf",
+				["name"] = "Ryugasm",
+				["lastLogoutTimestamp"] = 1641829420,
+				["zone"] = "The Wandering Isle",
+			},
+		},
+	},
+}

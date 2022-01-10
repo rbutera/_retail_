@@ -1,0 +1,6 @@
+
+TSMSC_DB = {
+	["showMessage"] = true,
+	["login"] = true,
+	["reload"] = false,
+}

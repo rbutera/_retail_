@@ -1,0 +1,10 @@
+lightweight tag 4f64cc51be7d0f989a395237044b965ed301905a WhatsYourCovenant_1.4.2_20220108_0409
+Author:	Deathbetray <kujaintrance@hotmail.com>
+Date:	Sun Jan 9 20:48:00 2022 +0000
+
+commit 4f64cc51be7d0f989a395237044b965ed301905a
+Author: Deathbetray <kujaintrance@hotmail.com>
+Date:   Sun Jan 9 20:48:00 2022 +0000
+
+    Database update: WhatsYourCovenant_1.4.2_20220108_0409.
+

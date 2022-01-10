@@ -1,0 +1,10 @@
+
+SimulationCraftDB = {
+	["profileKeys"] = {
+		["Ryugasm - Draenor"] = "Ryugasm - Draenor",
+	},
+	["profiles"] = {
+		["Ryugasm - Draenor"] = {
+		},
+	},
+}

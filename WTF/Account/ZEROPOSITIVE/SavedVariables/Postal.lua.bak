@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Ryugasm|Draenor|Horde|50|MONK", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Ryugasm - Draenor"] = "Ryugasm - Draenor",
+	},
+	["profiles"] = {
+		["Ryugasm - Draenor"] = {
+		},
+	},
+}

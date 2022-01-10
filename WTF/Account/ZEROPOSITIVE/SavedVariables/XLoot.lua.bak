@@ -1,0 +1,43 @@
+
+XLootADB = {
+	["namespaces"] = {
+		["Group"] = {
+			["profiles"] = {
+				["Default"] = {
+					["alert_anchor"] = {
+						["visible"] = false,
+					},
+					["roll_anchor"] = {
+						["visible"] = false,
+						["x"] = 1737.5009765625,
+						["y"] = 425.8336181640625,
+					},
+				},
+			},
+		},
+		["Frame"] = {
+		},
+		["Master"] = {
+		},
+		["Monitor"] = {
+			["profiles"] = {
+				["Default"] = {
+					["anchor"] = {
+						["visible"] = false,
+						["y"] = 423.332275390625,
+						["x"] = 1441.665893554688,
+					},
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Ryugasm - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["skin_anchors"] = true,
+			["skin"] = "Newsom",
+		},
+	},
+}

@@ -1,0 +1,18 @@
+
+AddOnSkinsDB = {
+	["profileKeys"] = {
+		["Ryugasm - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["SkinTemplate"] = "Default",
+			["Blizzard_AuctionHouseUI"] = false,
+			["Blizzard_DebugTools"] = false,
+			["Blizzard_PvE"] = false,
+		},
+	},
+}
+AddOnSkinsDS = {
+	[4.58] = {
+	},
+}
