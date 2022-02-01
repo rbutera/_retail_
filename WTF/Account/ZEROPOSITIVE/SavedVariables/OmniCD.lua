@@ -1,6 +1,7 @@
 
 OmniCDDB = {
 	["profileKeys"] = {
+		["Badmanting - Draenor"] = "Default",
 		["Ryugasm - Draenor"] = "Default",
 	},
 	["global"] = {

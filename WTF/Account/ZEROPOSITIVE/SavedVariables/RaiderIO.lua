@@ -1,9 +1,10 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "eu-Ryugasm-draenor"
+RaiderIO_LastCharacter = "eu-Badmanting-draenor"
 RaiderIO_MissingCharacters = {
-	["eu-Ryugasm-draenor"] = true,
+	["eu-Badmanting-draenor"] = true,
+	["eu-Misulaa-magtheridon"] = true,
 }
 RaiderIO_MissingServers = {
 }

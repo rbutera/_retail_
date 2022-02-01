@@ -1,10 +1,16 @@
-tag 60acbe622c4771dffd3aeb6d59d2c3417a42ce2d v1.9.26
-Author:	Talyrius <contact@talyrius.net>
-Date:	Fri Nov 12 08:28:12 2021 -0800
+lightweight tag b29e9b218f11c53f92a1bf58101e714f7c845c9e v1.9.25
+Author:	Leon <leonschneider29@googlemail.com>
+Date:	Sun Jul 11 14:01:07 2021 +0200
 
-commit 0210304075eec7ac915c380fe8e5064468eb1eb4
+commit 0637c3dd3ab8aef6a0f8f01c843c0e78bcbcd230
 Author: Talyrius <contact@talyrius.net>
-Date:   Fri Nov 12 08:27:20 2021 -0800
+Date:   Sat Jul 10 13:54:20 2021 -0700
 
-    Updated for Patch 9.1.5.
+    Updated for Patch 9.1: Chains of Domination.
+
+commit 0637c3dd3ab8aef6a0f8f01c843c0e78bcbcd230
+Author: Talyrius <contact@talyrius.net>
+Date:   Sat Jul 10 13:54:20 2021 -0700
+
+    Updated for Patch 9.1: Chains of Domination.
 

@@ -1,0 +1,120 @@
+
+WhatsYourCovenantConfig = {
+	["usability_Colourise"] = true,
+	["contextualTooltip_Display"] = true,
+	["version"] = "1.4.2",
+	["usability_CovenantColours"] = {
+		"ff2bd9f0", -- [1]
+		"ffde1b14", -- [2]
+		"ff237dff", -- [3]
+		"ff2bb557", -- [4]
+	},
+	["unitTooltip_Display"] = true,
+	["database_BothFactions"] = true,
+	["database_GeneratePersonal"] = true,
+	["groupfinder_IconsDisplay"] = true,
+}
+WhatsYourCovenantData = {
+	["PersonalCovenantDb"] = {
+		{
+			["faction"] = "Horde",
+			["Draenor"] = {
+				["Vengnub"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1642446581,
+				},
+				["Peho"] = {
+					["covenant"] = 2,
+					["lastUpdateAt"] = 1642495981,
+				},
+				["Chakkrai"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1642446117,
+				},
+				["Esperado"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1643120184,
+				},
+				["Ásgaroth"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1641928095,
+				},
+				["Northses"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1643120037,
+				},
+				["Bloodypleb"] = {
+					["covenant"] = 1,
+					["lastUpdateAt"] = 1643120859,
+				},
+				["Xraving"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1642445004,
+				},
+				["Burzuma"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1642418085,
+				},
+				["Lenkek"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1642587463,
+				},
+				["Mhellas"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1643119942,
+				},
+				["Korgum"] = {
+					["covenant"] = 2,
+					["lastUpdateAt"] = 1642446005,
+				},
+				["Bjðrn"] = {
+					["covenant"] = 2,
+					["lastUpdateAt"] = 1643121393,
+				},
+				["Creesy"] = {
+					["covenant"] = 2,
+					["lastUpdateAt"] = 1642445721,
+				},
+				["Mhella"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1643121378,
+				},
+			},
+			["Arthas"] = {
+				["Grauhorn"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1642496353,
+				},
+			},
+			["Kazzak"] = {
+				["Zedxeler"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1642444782,
+				},
+				["Elarraf"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1642446094,
+				},
+			},
+			["TarrenMill"] = {
+				["Catalel"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1642444970,
+				},
+			},
+		}, -- [1]
+		{
+			["Draenor"] = {
+				["Moonangel"] = {
+					["covenant"] = 1,
+					["lastUpdateAt"] = 1642445579,
+				},
+				["Archenhaud"] = {
+					["covenant"] = 3,
+					["lastUpdateAt"] = 1642496692,
+				},
+			},
+			["faction"] = "Alliance",
+		}, -- [2]
+	},
+}

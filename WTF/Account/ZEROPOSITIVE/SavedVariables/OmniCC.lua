@@ -5,6 +5,7 @@ OmniCCDB = {
 		["addonVersion"] = "9.1.6",
 	},
 	["profileKeys"] = {
+		["Badmanting - Draenor"] = "Default",
 		["Ryugasm - Draenor"] = "Default",
 	},
 	["profiles"] = {

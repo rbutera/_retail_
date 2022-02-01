@@ -1,0 +1,3226 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["scrollback"] = {
+		["ChatFrame5"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame4"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 28,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dawnabsolut-Draenor:414:CHANNEL:1|h|cff006fdcDawnabsolut|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Sylvanas 50k|r|cffffffff>|r |cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r |cffffffff<|r|cff00ff00Last 2 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15 100k|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 HC 210K Vips available|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 Mythic + 2 Vips + Mount 8.8M|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 8-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20 to +25 keys|r|cffffffff>|r  w/ me for more info",
+					["serverTime"] = 1641475591,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.268,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Absodawn-Draenor:415:CHANNEL:1|h|cff006fdcAbsodawn|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Sylvanas 50k|r|cffffffff>|r |cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r |cffffffff<|r|cff00ff00Last 2 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15 100k|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 HC 210K Vips available|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 Mythic + 2 Vips + Mount 8.8M|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 8-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20 to +25 keys|r|cffffffff>|r  w/ me for more info",
+					["serverTime"] = 1641475591,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.268,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novadev-Draenor:416:CHANNEL:1|h|cff3ec6eaNovadev|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r Offering HC Sanctum 200k  |cffffffff<|r|cff00ff002x VIP Traders Discount|r|cffffffff>|r  |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Sylvanas-|r|cffffffff>|r50k  Kel-40k  |cffffffff<|r|cff00ff00Last2-|r|cffffffff>|r80k  |cffffffff<|r|cff00ff004x+15=350k|r|cffffffff>|r  |cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Legion M+15=135k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Tazavesh-|r|cffffffff>|r190k  |cffffffff<|r|cff00ff00KSM 16x +15 =1540k|r|cffffffff>|r  |cffffffff<|r|cff00ff00KSH 8x +20 =3550k|r|cffffffff>|r Torghast - PvP - Leveling /w me.",
+					["serverTime"] = 1641475591,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.268,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Silviananas-Draenor:417:CHANNEL:1|h|cff006fdcSilviananas|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00SYLVANAS|r|cffffffff>|r WTS M15 135k intime (125k weekly )|| M14 115k M10 75k { TAZAVESH HM|||cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC ||2 last boss every 20 min.. torghast& / lvling /w me for more info.",
+					["serverTime"] = 1641475591,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.268,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Windroare-Draenor:418:CHANNEL:1|h|cff00fe97Windroare|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Void|r|cffffffff>|r Selling /  [M+10=70k / M+14=90k || M+15=95k Timed /+16=160k /+17=200k /+18=290k  / +20 = 500k / Tazavesh  HM 180k / Torghast 12=45k / recruiting boosters /w",
+					["serverTime"] = 1641475591,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.268,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novarachel-Draenor:419:CHANNEL:1|h|cff006fdcNovarachel|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA |r|cffffffff>|r [+15 Intime=100k] [10/10 HC =200K / 10Mythic =8,8M+Mount+2 VIP ] [Legion Mythic+ 15=135k weekly /225k intime ] [2x+15=190k] [4x+15 Intime=360K ]  [Taza HM=190k ] [Level/Mounts/Legacy/PVP] [EVERY 30 MIN KT+Sylva=80k ] [Layer 12x2=95k ] /w",
+					["serverTime"] = 1641475591,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.268,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Standforever-Draenor:420:CHANNEL:1|h|cffa9d271Standforever|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r |cffffffff<|r|cff00ff00DISCOUNTS|r|cffffffff>|rM+15 100K(buy 2x for free armor stack) |||cffffffff<|r|cff00ff00|| KSM 1540K|r|cffffffff>|r |cffffffff<|r|cff00ff00[SoD HC 200K(2xVIP DISCOUNTSK) - SoD MYTHIC|r|cffffffff>|r  M+ 10-22] ||Taza NM-80K HM-190K|||| HC Syl 50K KT 40K both 80K ||Torghast 2x12=95K ||2v2-3v3-Rbg /w for",
+					["serverTime"] = 1641475591,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.268,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lovleyday-Draenor:421:CHANNEL:1|h|cff00fe97Lovleyday|r|h|cffd8d8d8]|r: [RW] Nova Offering|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rMythic-HC 200k VIP-160k|r|cffffffff>|r|cffffffff<|r|cff00ff004x15=350k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+15=95k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+19=440k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=290k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+17=205k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSH 8x+20=3550k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM |cfff00|Hachievement:15078:Player-1403-0A0FE3C9:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=770k|r|cffffffff>|r|cffffffff<|r|cff00ff00LEVELING 50-60 = 550K|r|cffffffff>|r|cffffffff<|r|cff00ff00PVP|r|cffffffff>|r|cffffffff<|r|cff00ff00TORGHST|r|cffffffff>|r|cffffffff<|r|cff00ff00MOUNT|r|cffffffff>|r|cffffffff<|r|cff00ff00LEGACY|r|cffffffff>|r",
+					["serverTime"] = 1641475591,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.268,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Offerboosts-Draenor:422:CHANNEL:1|h|cff00fe97Offerboosts|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|rHeroic 10/10HC 200K , VIP Trader ||SylvanasHC 50k|| Last 2 HC 80k || |cffffffff<|r|cff00ff00M+ 10-22|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+16=160k|r|cffffffff>|r |cffffffff<|r|cff00ff00KSM 1540K|r|cffffffff>|r |cffffffff<|r|cff00ff00Tazavesh HM 190k|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 1-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP 2v2||3v3|r|cffffffff>|r |cffffffff<|r|cff00ff00LevelUp 50-60|r|cffffffff>|r |cffffffff<|r|cff00ff00Legion M+15|r|cffffffff>|r",
+					["serverTime"] = 1641475591,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.268,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:33]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaadraenor-Draenor:423:CHANNEL:1|h|cff00fe97Novaadraenor|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Nova|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r10/10Hc=200K|r|cffffffff>|r |cffffffff<|r|cff00ff00Last2 bosses=80K|r|cffffffff>|r  |cffffffff<|r|cff00ff00Mythic SOD|r|cffffffff>|r  |||cffffffff<|r|cff00ff00M0-M22|r|cffffffff>|r  |cffffffff<|r|cff00ff00M15=100K - 4x15=350K|r|cffffffff>|r  |cffffffff<|r|cff00ff00M20=510K|r|cffffffff>|r  |cffffffff<|r|cff00ff00Free armor stack|r|cffffffff>|r  |cffffffff<|r|cff00ff00Ksm|r|cffffffff>|r |||cffffffff<|r|cff00ff00Pvp|r|cffffffff>|r |cffffffff<|r|cff00ff00Lvlup|r|cffffffff>|r |cffffffff<|r|cff00ff00Mount&Pet|r|cffffffff>|rGold only /w For more info!",
+					["serverTime"] = 1641475592,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.759,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:33]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Icyveinz-Draenor:424:CHANNEL:1|h|cfff38bb9Icyveinz|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r Offering Today |cfff00|Hachievement:15127:Player-1305-0BCEAB76:0:0:0:-1:0:0|h[Heroic: Sanctum of Domination]|h|r 200k@ (14/16/19/20/21/23) Mythic 10/10 +Mount &VIP |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r / Sylvanas 50K |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r40K(Both 80K) /+15=105k (4x15=375K) +14=90K (4x14=340K) /+20=510K// +20-26 intime + KSM//PVP/RBG",
+					["serverTime"] = 1641475592,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.759,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:33]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lycanboost-Draenor:425:CHANNEL:1|h|cfff38bb9Lycanboost|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r Offering Today |cfff00|Hachievement:15127:Player-1403-0A17D609:0:0:0:-1:0:0|h[Heroic: Sanctum of Domination]|h|r  200K (VIP 160K )@ (14/16/19/20/21/23) Mythic 10/10 +Mount & 2-6x VIP |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r / |cffffffff<|r|cff00ff00SYLVANAS |r|cffffffff>|r HC 50K |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r 40K (Both 80K ) 15=105k (4x15=375K) +14=100K /+20=510/ 25-26 INTIME/PVP",
+					["serverTime"] = 1641475592,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.759,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:33]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ballasadv-Draenor:426:CHANNEL:1|h|cff3ec6eaBallasadv|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Ballasa Community|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Kelthuzad|r|cffffffff>|r 40k // |cffffffff<|r|cff00ff00Sylvanas|r|cffffffff>|r 50k // Both 80k. Come and get your Curve achievement with 10/10M Players // Chance to get 246ilvl item // Going Now ||||",
+					["serverTime"] = 1641475592,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20814.931,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:33]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novabest-Draenor:427:CHANNEL:1|h|cfffefefeNovabest|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r SoD HC 200K(1x VIP 160K--2x VIP 300K) ||SoD MYTHIC ||HC Syl 50K KT 40K both 80K ||M+15 100K ||M+16 160K ||M+180 290K ||KSM(16x +15) 1540K ||KSH(8x +20) 3550K ||Taza HM 190K || Torghast 2x12=95K /w for info!",
+					["serverTime"] = 1641475592,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20815.384,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:33]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Raraidraen-Draenor:428:CHANNEL:1|h|cff00fe97Raraidraen|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING  |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r Heroic 200k|r|cffffffff>|r|cffffffff<|r|cff00ff00VIP Traders|r|cffffffff>|r|cffffffff<|r|cff00ff00M15=100k|r|cffffffff>|r  |cffffffff<|r|cff00ff00M20=510k|r|cffffffff>|r |cffffffff<|r|cff00ff00KSM 1540k and KSM hero 3550k|r|cffffffff>|r  |cffffffff<|r|cff00ff00|cfff00|Hachievement:15134:Player-1403-0A04E106:0:0:0:-1:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r  SYLVANAS 50k|r|cffffffff>|r|cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r|cffffffff<|r|cff00ff00LAST 2 BOSS 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1194:23|h[Tazavesh, the Veiled Market]|h|r NM 80k-HM 190k|r|cffffffff>|r",
+					["serverTime"] = 1641475592,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20815.384,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:33]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novababy-Draenor:429:CHANNEL:1|h|cff00fe97Novababy|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00**NOVA**|r|cffffffff>|r Is OFFERING  || |cffffffff<|r|cff00ff00HEROIC |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r=200k, VIP Trader=160k|r|cffffffff>|r   |cffffffff<|r|cff00ff00Mythic Sanctum|r|cffffffff>|r   |cffffffff<|r|cff00ff00KSM=1540k|r|cffffffff>|r   |cffffffff<|r|cff00ff00KSH=3550k|r|cffffffff>|r   |cffffffff<|r|cff00ff00M+10=75k|r|cffffffff>|r   |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r   |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r   |cffffffff<|r|cff00ff00Sylvanas Heroic=50k|r|cffffffff>|r   |cffffffff<|r|cff00ff00Last 2 Heroic=80k|r|cffffffff>|r ||",
+					["serverTime"] = 1641475592,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20815.384,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:34]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Frostbullet-Draenor:430:CHANNEL:1|h|cff006fdcFrostbullet|r|h|cffd8d8d8]|r: [RW] (Sylvanas ) SOD HC10/10=200k with 1VIP=380k at 12:00<13:30<15:00<16:00<21:30 and 23:30CET/Mythic SOD 8800k+Mount and 2 traders /M+ Keys< M15=105k/M20=520k/KSM=1640k/4x15=360k/10x15=900k/SylvHC=50K/KT+Sylv=80k/TazaHM=190k/Torghast/PVP /w for info",
+					["serverTime"] = 1641475593,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20815.879,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:35]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Discounters-Draenor:431:CHANNEL:1|h|cff00fe97Discounters|r|h|cffd8d8d8]|r: [RW] Nova Offering|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rMythic-HC 200k VIP-160k|r|cffffffff>|r|cffffffff<|r|cff00ff004x15=350k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+15=95k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+19=440k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=290k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+17=205k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSH 8x+20=3550k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM |cfff00|Hachievement:15078:Player-1403-0A1A6826:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=770k|r|cffffffff>|r|cffffffff<|r|cff00ff00LEVELING 50-60 = 550K|r|cffffffff>|r|cffffffff<|r|cff00ff00PVP|r|cffffffff>|r|cffffffff<|r|cff00ff00TORGHST|r|cffffffff>|r|cffffffff<|r|cff00ff00MOUNT|r|cffffffff>|r|cffffffff<|r|cff00ff00LEGACY|r|cffffffff>|r",
+					["serverTime"] = 1641475594,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						36, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20816.913,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:35]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaservicer-Draenor:432:CHANNEL:1|h|cff00fe97Novaservicer|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00 N O V A |r|cffffffff>|r CURVE BOTH 80k & 10/10 HC 200k / 0-24 Keys FREE ARMOR+15 INTIME 100k 2x15=190K [SPECIAL DEALS 4X15=360K/5x15=438K]6x15 =525K]7x=613k] 8x15=700k 16=160k 17=205k 18=290k 19=440k 20=510k Tazavash HM=190k]50-60Lv=550k]Thorgast 2x12=95k]PVP]",
+					["serverTime"] = 1641475594,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						38, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20817.25,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:35]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Voidcommunit-Draenor:433:CHANNEL:1|h|cfffef367Voidcommunit|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Void|r|cffffffff>|r Selling /  Mythic+ 10-22> [M+10=70k / M+14=90k || M+15=95k Timed /+16=160k /+17=200k /+18=290k  / +20 = 500k / Tazavesh  HM 180k / Torghast 12=45k / recruiting boosters /w",
+					["serverTime"] = 1641475594,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20817.25,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:36]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Weboostyou-Draenor:434:CHANNEL:1|h|cff00fe97Weboostyou|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn|r|cffffffff>|r Offering HEROIC Sylvanas |cffffffff<|r|cff00ff0050k|r|cffffffff>|r Kel'Thuzad|cffffffff<|r|cff00ff0040k|r|cffffffff>|r BOTH |cffffffff<|r|cff00ff0080k|r|cffffffff>|r MYTHIC+ (1-24) , HEROIC & MYTHIC 10/10, Torghast / Arena / Leveling and more! /w me for more info - gold only",
+					["serverTime"] = 1641475595,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20817.771,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:36]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Syldraenor-Draenor:435:CHANNEL:1|h|cff00fe97Syldraenor|r|h|cffd8d8d8]|r: SYLVANAS // M+15 = 105k In Time // M+18 = 300k // M+19 = 450K // M+20 = 510K // M+21 = 650K // M+25 = 3000k // U CAN CHOOSE KEY // 4X15 = 360K // 10X15 = 900K // FREE ARMOR STACK // SOD HC-MYTHIC +Free Trader // LAST 2BOSS EVERY 30 MIN // TORGHAST // W",
+					["serverTime"] = 1641475595,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20818.285,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:38]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dawnjeoo-Draenor:436:CHANNEL:1|h|cfffe7b09Dawnjeoo|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r IS OFFERING |cffffffff<|r|cff00ff00|cfff00|Hachievement:15127:Player-1403-0A114394:1:9:22:21:4294967295|h[Heroic: Sanctum of Domination]|h|r 210K |r|cffffffff>|r |cffffffff<|r|cff00ff00VIP Trader 160k|r|cffffffff>|r [ Sylavnas 50k>|cffffffff<|r|cff00ff00KT 40K|r|cffffffff>|r|cffffffff<|r|cff00ff00Both 80K ] || M+15=105k <M+14=95K|r|cffffffff>|r |cffffffff<|r|cff00ff00Armor Stack|r|cffffffff>|r || 4x15 375K || |cffffffff<|r|cff00ff00M+17=200k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=300k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r||LVLUP 51/60|| Also Selling |cfff00|Hachievement:12568:Player-1403-0A114394:1:9:22:19:4294967295|h[The Alliance Slayer]|h|r",
+					["serverTime"] = 1641475597,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						46, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20819.517,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:38]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaopa-Draenor:437:CHANNEL:1|h|cff00fe97Novaopa|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00<NOVA|r|cffffffff>|r> OFFERING TODAY HEROIC|cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r200k|cffffffff<|r|cff00ff00VIP TRADERS AVAILABLE |r|cffffffff>|r |cffffffff<|r|cff00ff00 SELLING ALL|r|cffffffff>|r|cffffffff<|r|cff00ff00M0-22 INTIME + ARMOR STACK|r|cffffffff>|r|cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00Multipe RUN DISCOUNT+FREE STACK|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM=1540k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSH=3550k|r|cffffffff>|r|cffffffff<|r|cff00ff00LAST 2 HC 80k|r|cffffffff>|r",
+					["serverTime"] = 1641475597,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20820.056,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:39]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novajel-Draenor:438:CHANNEL:1|h|cfffef367Novajel|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00 NOVA |r|cffffffff>|r is OFFERING  Heroic |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r200k || VIP Traders Available || Sanctum Mythic 8.8M + 2x VIP || M+15= 100k || KSM 16xM+15=1540k || KSH 8xM+20=3550k || Torghast || Last 2Bosss HC 80k ||",
+					["serverTime"] = 1641475598,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20820.682,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:39]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Sylsboosts-Draenor:439:CHANNEL:1|h|cfffe7b09Sylsboosts|r|h|cffd8d8d8]|r: SYLVANAS / M+15 = 105K In Time /|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC-Mythic +TRADER /LAST 2BOSS EVERY 30 MIN /M+20 = 510K /M+19 = 450k /M+18 = 300k /FREE SPECIFIC KEY /KSM 16X15 /10X15=900k /4x15=360k /+ARMOR STACK/TORGHAST /W",
+					["serverTime"] = 1641475598,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20821.304,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:39]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaelite-Draenor:440:CHANNEL:1|h|cfffef367Novaelite|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00 NOVA |r|cffffffff>|r is OFFERING || Sanctum HC 200k|| VIP Traders Available || Sanctum Mythic  ||M+15= 100k || M+20=510k || KSM 16x M+15= 1540k+Stack || KSH 8x M+20= 3550k || Torghast---Level UP ||  Tazavesh || Sylv HC 50k--Last 2Boss HC 80k ||",
+					["serverTime"] = 1641475598,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						54, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20821.304,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:39]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Albodawn-Draenor:442:CHANNEL:1|h|cfffe7b09Albodawn|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00SYLVANAS|r|cffffffff>|r|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r10/10=|cffffffff<|r|cff00ff00200k|r|cffffffff>|r +VIP TRADER 1xM+15=|cffffffff<|r|cff00ff00100k|r|cffffffff>|r 4x+15=|cffffffff<|r|cff00ff00360k|r|cffffffff>|r Mythic10/10 +2 FREE VIPS M+20=|cffffffff<|r|cff00ff00520k|r|cffffffff>|r LAST 2 BOSS =|cffffffff<|r|cff00ff0080k|r|cffffffff>|r  Torghast / Tazavesh / PvP ! All Cheap Whisper for info!",
+					["serverTime"] = 1641475598,
+					["r"] = 0.7647059559822083,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						56, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 20821.557,
+					["g"] = 0.9019608497619629,
+					["b"] = 0.9098039865493774,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:27]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Offerboosts-Draenor:313:CHANNEL:1|h|cff00fe97Offerboosts|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|rHeroic 10/10HC 200K , VIP Trader ||SylvanasHC 50k|| Last 2 HC 80k || |cffffffff<|r|cff00ff00M+ 10-22|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+16=160k|r|cffffffff>|r |cffffffff<|r|cff00ff00KSM 1540K|r|cffffffff>|r |cffffffff<|r|cff00ff00Tazavesh HM 190k|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 1-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP 2v2||3v3|r|cffffffff>|r |cffffffff<|r|cff00ff00LevelUp 50-60|r|cffffffff>|r |cffffffff<|r|cff00ff00Legion M+15|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475526,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:27]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dawnabsolut-Draenor:314:CHANNEL:1|h|cff006fdcDawnabsolut|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Sylvanas 50k|r|cffffffff>|r |cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r |cffffffff<|r|cff00ff00Last 2 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15 100k|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 HC 210K Vips available|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 Mythic + 2 Vips + Mount 8.8M|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 8-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20 to +25 keys|r|cffffffff>|r  w/ me for more info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475526,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:27]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Absodawn-Draenor:315:CHANNEL:1|h|cff006fdcAbsodawn|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Sylvanas 50k|r|cffffffff>|r |cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r |cffffffff<|r|cff00ff00Last 2 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15 100k|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 HC 210K Vips available|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 Mythic + 2 Vips + Mount 8.8M|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 8-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20 to +25 keys|r|cffffffff>|r  w/ me for more info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475526,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						38, -- [4]
+						["n"] = 4,
+					},
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:28]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novarachel-Draenor:316:CHANNEL:1|h|cff006fdcNovarachel|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA |r|cffffffff>|r [+15 Intime=100k] [10/10 HC =200K / 10Mythic =8,8M+Mount+2 VIP ] [Legion Mythic+ 15=135k weekly /225k intime ] [2x+15=190k] [4x+15 Intime=360K ]  [Taza HM=190k ] [Level/Mounts/Legacy/PVP] [EVERY 30 MIN KT+Sylva=80k ] [Layer 12x2=95k ] /w",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475527,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						36, -- [4]
+						["n"] = 4,
+					},
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:29]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novadev-Draenor:317:CHANNEL:1|h|cff3ec6eaNovadev|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r Offering HC Sanctum 200k  |cffffffff<|r|cff00ff002x VIP Traders Discount|r|cffffffff>|r  |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Sylvanas-|r|cffffffff>|r50k  Kel-40k  |cffffffff<|r|cff00ff00Last2-|r|cffffffff>|r80k  |cffffffff<|r|cff00ff004x+15=350k|r|cffffffff>|r  |cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Legion M+15=135k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Tazavesh-|r|cffffffff>|r190k  |cffffffff<|r|cff00ff00KSM 16x +15 =1540k|r|cffffffff>|r  |cffffffff<|r|cff00ff00KSH 8x +20 =3550k|r|cffffffff>|r Torghast - PvP - Leveling /w me.",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475528,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:31]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lovleyday-Draenor:318:CHANNEL:1|h|cff00fe97Lovleyday|r|h|cffd8d8d8]|r: [RW] Nova Offering|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rMythic-HC 200k VIP-160k|r|cffffffff>|r|cffffffff<|r|cff00ff004x15=350k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+15=95k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+19=440k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=290k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+17=205k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSH 8x+20=3550k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM |cfff00|Hachievement:15078:Player-1403-0A0FE3C9:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=770k|r|cffffffff>|r|cffffffff<|r|cff00ff00LEVELING 50-60 = 550K|r|cffffffff>|r|cffffffff<|r|cff00ff00PVP|r|cffffffff>|r|cffffffff<|r|cff00ff00TORGHST|r|cffffffff>|r|cffffffff<|r|cff00ff00MOUNT|r|cffffffff>|r|cffffffff<|r|cff00ff00LEGACY|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475530,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:31]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaservizze-Draenor:319:CHANNEL:1|h|cff006fdcNovaservizze|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00 N O V A |r|cffffffff>|r |cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r10/10HC= 200k/LEGACY & MOUNTS & ACHIS & PVP 30% DISCOUNT/FREE ARMOR+15 INTIME 100k [SPECIAL DEALS 4X15=360K]20=510K Tazavash HM=190k]50-60Lv=550k/ Thorghast 2x12=95K /w",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475530,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:32]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Frostbullet-Draenor:320:CHANNEL:1|h|cff006fdcFrostbullet|r|h|cffd8d8d8]|r: [RW] (Sylvanas ) SOD HC10/10=200k with 1VIP=380k at 12:00<13:30<15:00<16:00<21:30 and 23:30CET/Mythic SOD 8800k+Mount and 2 traders /M+ Keys< M15=105k/M20=520k/KSM=1640k/4x15=360k/10x15=900k/SylvHC=50K/KT+Sylv=80k/TazaHM=190k/Torghast/PVP /w for info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475531,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						46, -- [4]
+						["n"] = 4,
+					},
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:32]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Raraidraen-Draenor:321:CHANNEL:1|h|cff00fe97Raraidraen|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING  |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r Heroic 200k|r|cffffffff>|r|cffffffff<|r|cff00ff00VIP Traders|r|cffffffff>|r|cffffffff<|r|cff00ff00M15=100k|r|cffffffff>|r  |cffffffff<|r|cff00ff00M20=510k|r|cffffffff>|r |cffffffff<|r|cff00ff00KSM 1540k and KSM hero 3550k|r|cffffffff>|r  |cffffffff<|r|cff00ff00|cfff00|Hachievement:15134:Player-1403-0A04E106:0:0:0:-1:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r  SYLVANAS 50k|r|cffffffff>|r|cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r|cffffffff<|r|cff00ff00LAST 2 BOSS 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1194:23|h[Tazavesh, the Veiled Market]|h|r NM 80k-HM 190k|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475531,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:33]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Albodawn-Draenor:322:CHANNEL:1|h|cfffe7b09Albodawn|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00SYLVANAS|r|cffffffff>|r|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r10/10=|cffffffff<|r|cff00ff00200k|r|cffffffff>|r +VIP TRADER 1xM+15=|cffffffff<|r|cff00ff00100k|r|cffffffff>|r 4x+15=|cffffffff<|r|cff00ff00360k|r|cffffffff>|r Mythic10/10 +2 FREE VIPS M+20=|cffffffff<|r|cff00ff00520k|r|cffffffff>|r LAST 2 BOSS =|cffffffff<|r|cff00ff0080k|r|cffffffff>|r  Torghast / Tazavesh / PvP ! All Cheap Whisper for info!",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475532,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:33]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lycanboost-Draenor:323:CHANNEL:1|h|cfff38bb9Lycanboost|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r Offering Today |cfff00|Hachievement:15127:Player-1403-0A17D609:0:0:0:-1:0:0|h[Heroic: Sanctum of Domination]|h|r  200K (VIP 160K )@ (14/16/19/20/21/23) Mythic 10/10 +Mount & 2-6x VIP |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r / |cffffffff<|r|cff00ff00SYLVANAS |r|cffffffff>|r HC 50K |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r 40K (Both 80K ) 15=105k (4x15=375K) +14=100K /+20=510/ 25-26 INTIME/PVP",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475532,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:33]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Icyveinz-Draenor:324:CHANNEL:1|h|cfff38bb9Icyveinz|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r Offering Today |cfff00|Hachievement:15127:Player-1305-0BCEAB76:0:0:0:-1:0:0|h[Heroic: Sanctum of Domination]|h|r 200k@ (14/16/19/20/21/23) Mythic 10/10 +Mount &VIP |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r / Sylvanas 50K |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r40K(Both 80K) /+15=105k (4x15=375K) +14=90K (4x14=340K) /+20=510K// +20-26 intime + KSM//PVP/RBG",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475532,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:34]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaulra-Draenor:325:CHANNEL:1|h|cff006fdcNovaulra|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r  [ M+15 100k ] [ M+15x4 360k ] |cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r10/10 HC 200k 1 Vip 160 2x Vip 300k ] [Legion Mythic+ 150k ] KSH 3550k [  PVP ] [ Torghast 2x12 95k ] [ Sylvanas HC 50k ][ Last 2 Bosss 80k]",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475533,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						56, -- [4]
+						["n"] = 4,
+					},
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:34]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novastaffs-Draenor:326:CHANNEL:1|h|cff00fe97Novastaffs|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r WTS |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10HC =200K > VIP Trader || |cffffffff<|r|cff00ff00 SylvanasHC=50K |r|cffffffff>|r || Last 2 HC=80K || M+15=100k|| M+20=510K|| KSH 8xM20=3500K|| KSM=1540k|| Tazavesh HM 190K|| M16-24 InTime || Torghast || PvP 2v2/3v3 || Levelup 50-60|| Legion M+15 ||",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475533,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:35]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Weboostyou-Draenor:327:CHANNEL:1|h|cff00fe97Weboostyou|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn|r|cffffffff>|r Offering HEROIC Sylvanas |cffffffff<|r|cff00ff0050k|r|cffffffff>|r Kel'Thuzad|cffffffff<|r|cff00ff0040k|r|cffffffff>|r BOTH |cffffffff<|r|cff00ff0080k|r|cffffffff>|r MYTHIC+ (1-24) , HEROIC & MYTHIC 10/10, Torghast / Arena / Leveling and more! /w me for more info - gold only",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475534,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:35]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Voidcommunit-Draenor:328:CHANNEL:1|h|cfffef367Voidcommunit|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Void|r|cffffffff>|r Selling /  Mythic+ 10-22> [M+10=70k / M+14=90k || M+15=95k Timed /+16=160k /+17=200k /+18=290k  / +20 = 500k / Tazavesh  HM 180k / Torghast 12=45k / recruiting boosters /w",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475534,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:36]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Standforever-Draenor:329:CHANNEL:1|h|cffa9d271Standforever|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r |cffffffff<|r|cff00ff00DISCOUNTS|r|cffffffff>|rM+15 100K(buy 2x for free armor stack) |||cffffffff<|r|cff00ff00|| KSM 1540K|r|cffffffff>|r |cffffffff<|r|cff00ff00[SoD HC 200K(2xVIP DISCOUNTSK) - SoD MYTHIC|r|cffffffff>|r  M+ 10-22] ||Taza NM-80K HM-190K|||| HC Syl 50K KT 40K both 80K ||Torghast 2x12=95K ||2v2-3v3-Rbg /w for",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475535,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:36]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Syldraenor-Draenor:330:CHANNEL:1|h|cff00fe97Syldraenor|r|h|cffd8d8d8]|r: SYLVANAS // M+15 = 105k In Time // M+18 = 300k // M+19 = 450K // M+20 = 510K // M+21 = 650K // M+25 = 3000k // U CAN CHOOSE KEY // 4X15 = 360K // 10X15 = 900K // FREE ARMOR STACK // SOD HC-MYTHIC +Free Trader // LAST 2BOSS EVERY 30 MIN // TORGHAST // W",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475535,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:38]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dawnjeoo-Draenor:331:CHANNEL:1|h|cfffe7b09Dawnjeoo|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r IS OFFERING |cffffffff<|r|cff00ff00|cfff00|Hachievement:15127:Player-1403-0A114394:1:9:22:21:4294967295|h[Heroic: Sanctum of Domination]|h|r 210K |r|cffffffff>|r |cffffffff<|r|cff00ff00VIP Trader 160k|r|cffffffff>|r [ Sylavnas 50k>|cffffffff<|r|cff00ff00KT 40K|r|cffffffff>|r|cffffffff<|r|cff00ff00Both 80K ] || M+15=105k <M+14=95K|r|cffffffff>|r |cffffffff<|r|cff00ff00Armor Stack|r|cffffffff>|r || 4x15 375K || |cffffffff<|r|cff00ff00M+17=200k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=300k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r||LVLUP 51/60|| Also Selling |cfff00|Hachievement:12568:Player-1403-0A114394:1:9:22:19:4294967295|h[The Alliance Slayer]|h|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475537,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						54, -- [4]
+						["n"] = 4,
+					},
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:38]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Windroare-Draenor:332:CHANNEL:1|h|cff00fe97Windroare|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Void|r|cffffffff>|r Selling /  [M+10=70k / M+14=90k || M+15=95k Timed /+16=160k /+17=200k /+18=290k  / +20 = 500k / Tazavesh  HM 180k / Torghast 12=45k / recruiting boosters /w",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475537,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						60, -- [4]
+						["n"] = 4,
+					},
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:38]|h|r |Hchannel:channel:1|h[1] |h<Away>|cffd8d8d8[|r|Hplayer:Naassimaa-Draenor:333:CHANNEL:1|h|cff00fe97Naassimaa|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Sylvanas|r|cffffffff>|r10/10 SoD At 16:00  Realm time ( Personal loot =200k ) >|cffffffff<|r|cff00ff00 (1x Vip 380k)|| (2xVip=530k) |r|cffffffff>|r Sylvanas=50k |cffffffff<|r|cff00ff00 Kt=40k |r|cffffffff>|r ( Both=80k )  >>KeystoneMaster=1640k(8x15=820k) >  M+15=105k > 4x15=380k>> Mythic Raid 10/10 > M+20=510k>Torghast>Legion Dungeon",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475537,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:39]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ballasadv-Draenor:334:CHANNEL:1|h|cff3ec6eaBallasadv|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Ballasa Community|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Kelthuzad|r|cffffffff>|r 40k // |cffffffff<|r|cff00ff00Sylvanas|r|cffffffff>|r 50k // Both 80k. Come and get your Curve achievement with 10/10M Players // Chance to get 246ilvl item // Going Now ||||",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475538,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:39]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Sylsboosts-Draenor:335:CHANNEL:1|h|cfffe7b09Sylsboosts|r|h|cffd8d8d8]|r: SYLVANAS / M+15 = 105K In Time /|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC-Mythic +TRADER /LAST 2BOSS EVERY 30 MIN /M+20 = 510K /M+19 = 450k /M+18 = 300k /FREE SPECIFIC KEY /KSM 16X15 /10X15=900k /4x15=360k /+ARMOR STACK/TORGHAST /W",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475538,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:39]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Discounters-Draenor:336:CHANNEL:1|h|cff00fe97Discounters|r|h|cffd8d8d8]|r: [RW] Nova Offering|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rMythic-HC 200k VIP-160k|r|cffffffff>|r|cffffffff<|r|cff00ff004x15=350k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+15=95k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+19=440k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=290k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+17=205k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSH 8x+20=3550k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM |cfff00|Hachievement:15078:Player-1403-0A1A6826:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=770k|r|cffffffff>|r|cffffffff<|r|cff00ff00LEVELING 50-60 = 550K|r|cffffffff>|r|cffffffff<|r|cff00ff00PVP|r|cffffffff>|r|cffffffff<|r|cff00ff00TORGHST|r|cffffffff>|r|cffffffff<|r|cff00ff00MOUNT|r|cffffffff>|r|cffffffff<|r|cff00ff00LEGACY|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475538,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:40]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novababy-Draenor:337:CHANNEL:1|h|cff00fe97Novababy|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00**NOVA**|r|cffffffff>|r Is OFFERING  || |cffffffff<|r|cff00ff00HEROIC |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r=200k, VIP Trader=160k|r|cffffffff>|r   |cffffffff<|r|cff00ff00Mythic Sanctum|r|cffffffff>|r   |cffffffff<|r|cff00ff00KSM=1540k|r|cffffffff>|r   |cffffffff<|r|cff00ff00KSH=3550k|r|cffffffff>|r   |cffffffff<|r|cff00ff00M+10=75k|r|cffffffff>|r   |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r   |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r   |cffffffff<|r|cff00ff00Sylvanas Heroic=50k|r|cffffffff>|r   |cffffffff<|r|cff00ff00Last 2 Heroic=80k|r|cffffffff>|r ||",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475539,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:40]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Titanserives-Draenor:338:CHANNEL:1|h|cfffe7b09Titanserives|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn Boosting|r|cffffffff>|r |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10 HC 210k |cffffffff<|r|cff00ff00Trader 160k|r|cffffffff>|r |cffffffff<|r|cff00ff00+15 105K|r|cffffffff>|r |cffffffff<|r|cff00ff004x15 390k|r|cffffffff>|r|cffffffff<|r|cff00ff00+20 510k|r|cffffffff>|r [Ahead of the Curve: Sylvanas Windrunner] |cffffffff<|r|cff00ff00Sylvanas + KT 80k|r|cffffffff>|r  PVP /Torghast/LVLUP /w me for more info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475539,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:41]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaadraenor-Draenor:339:CHANNEL:1|h|cff00fe97Novaadraenor|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Nova|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r10/10Hc=200K|r|cffffffff>|r |cffffffff<|r|cff00ff00Last2 bosses=80K|r|cffffffff>|r  |cffffffff<|r|cff00ff00Mythic SOD|r|cffffffff>|r  |||cffffffff<|r|cff00ff00M0-M22|r|cffffffff>|r  |cffffffff<|r|cff00ff00M15=100K - 4x15=350K|r|cffffffff>|r  |cffffffff<|r|cff00ff00M20=510K|r|cffffffff>|r  |cffffffff<|r|cff00ff00Free armor stack|r|cffffffff>|r  |cffffffff<|r|cff00ff00Ksm|r|cffffffff>|r |||cffffffff<|r|cff00ff00Pvp|r|cffffffff>|r |cffffffff<|r|cff00ff00Lvlup|r|cffffffff>|r |cffffffff<|r|cff00ff00Mount&Pet|r|cffffffff>|rGold only /w For more info!",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475540,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:41]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dariova-Draenor:340:CHANNEL:1|h|cff00fe97Dariova|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00N O V A|r|cffffffff>|r OFFERS|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r HC 200k|r|cffffffff>|r|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r 50k|r|cffffffff>|r|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r 40k|r|cffffffff>|r|cffffffff<|r|cff00ff00Last 2 Boss 80k|r|cffffffff>|r|cffffffff<|r|cff00ff00+15=100k|r|cffffffff>|r|cffffffff<|r|cff00ff004x 15=350k|r|cffffffff>|r |cffffffff<|r|cff00ff00FREE ARMORSTACK FOR 2x run|r|cffffffff>|r |cffffffff<|r|cff00ff00+14=95k|r|cffffffff>|r |cffffffff<|r|cff00ff00+10=75k|r|cffffffff>|r |cffffffff<|r|cff00ff00+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM with ARMORSTACK=1540k|r|cffffffff>|r|cffffffff<|r|cff00ff00TAZAVESH HM 190k-NM 80k|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475540,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						58, -- [4]
+						["n"] = 4,
+					},
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:42]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novadev-Draenor:341:CHANNEL:1|h|cff3ec6eaNovadev|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r Offering HC Sanctum 200k  |cffffffff<|r|cff00ff002x VIP Traders Discount|r|cffffffff>|r  |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Sylvanas-|r|cffffffff>|r50k  Kel-40k  |cffffffff<|r|cff00ff00Last2-|r|cffffffff>|r80k  |cffffffff<|r|cff00ff004x+15=350k|r|cffffffff>|r  |cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Legion M+15=135k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Tazavesh-|r|cffffffff>|r190k  |cffffffff<|r|cff00ff00KSM 16x +15 =1540k|r|cffffffff>|r  |cffffffff<|r|cff00ff00KSH 8x +20 =3550k|r|cffffffff>|r Torghast - PvP - Leveling /w me.",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475541,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:43]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novabest-Draenor:342:CHANNEL:1|h|cfffefefeNovabest|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r SoD HC 200K(1x VIP 160K--2x VIP 300K) ||SoD MYTHIC ||HC Syl 50K KT 40K both 80K ||M+15 100K ||M+16 160K ||M+180 290K ||KSM(16x +15) 1540K ||KSH(8x +20) 3550K ||Taza HM 190K || Torghast 2x12=95K /w for info!",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475542,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:43]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novahearty-Draenor:343:CHANNEL:1|h|cff006fdcNovahearty|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r  [ M+15 100k ][ M+15x2 185k ] [ M+15x4 360k ]|cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r10/10 HC 200k 1 Vip 160 2x Vip 300k ] [Legion Mythic+ 150k ] KSH 3550k [  PVP ] [ Torghast ] [ Sylvanas HC 50k ][ Last 2 Bosss 80k]",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475542,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:43]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Offerboosts-Draenor:344:CHANNEL:1|h|cff00fe97Offerboosts|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|rHeroic 10/10HC 200K , VIP Trader ||SylvanasHC 50k|| Last 2 HC 80k || |cffffffff<|r|cff00ff00M+ 10-22|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+16=160k|r|cffffffff>|r |cffffffff<|r|cff00ff00KSM 1540K|r|cffffffff>|r |cffffffff<|r|cff00ff00Tazavesh HM 190k|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 1-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP 2v2||3v3|r|cffffffff>|r |cffffffff<|r|cff00ff00LevelUp 50-60|r|cffffffff>|r |cffffffff<|r|cff00ff00Legion M+15|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475542,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:44]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dronovimity-Draenor:345:CHANNEL:1|h|cff00fe97Dronovimity|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC 200k AND VIP TRADER|r|cffffffff>|r |cffffffff<|r|cff00ff00MYTHIC|r|cffffffff>|r |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2441:15|h[Sylvanas Windrunner]|h|r HC 50k|r|cffffffff>|r |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2440:15|h[Kel'Thuzad]|h|r  HC 40k|r|cffffffff>|r |cffffffff<|r|cff00ff00BOTH BOSSES 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00+15=100k|r|cffffffff>|r |cffffffff<|r|cff00ff00+14=95k|r|cffffffff>|r |cffffffff<|r|cff00ff00KEYSTONE MASTER=1540k|r|cffffffff>|r  |cffffffff<|r|cff00ff00+10=75k|r|cffffffff>|r|cffffffff<|r|cff00ff00+20= 510k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Tazavesh NM 80k-HM 190k|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475543,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:44]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaservicer-Draenor:346:CHANNEL:1|h|cff00fe97Novaservicer|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00 N O V A |r|cffffffff>|r CURVE BOTH 80k & 10/10 HC 200k / 0-24 Keys FREE ARMOR+15 INTIME 100k 2x15=190K [SPECIAL DEALS 4X15=360K/5x15=438K]6x15 =525K]7x=613k] 8x15=700k 16=160k 17=205k 18=290k 19=440k 20=510k Tazavash HM=190k]50-60Lv=550k]Thorgast 2x12=95k]PVP]",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475543,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						68, -- [4]
+						["n"] = 4,
+					},
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:47]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dawnabsolut-Draenor:347:CHANNEL:1|h|cff006fdcDawnabsolut|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Sylvanas 50k|r|cffffffff>|r |cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r |cffffffff<|r|cff00ff00Last 2 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15 100k|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 HC 210K Vips available|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 Mythic + 2 Vips + Mount 8.8M|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 8-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20 to +25 keys|r|cffffffff>|r  w/ me for more info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475546,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:47]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Absodawn-Draenor:348:CHANNEL:1|h|cff006fdcAbsodawn|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Sylvanas 50k|r|cffffffff>|r |cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r |cffffffff<|r|cff00ff00Last 2 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15 100k|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 HC 210K Vips available|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 Mythic + 2 Vips + Mount 8.8M|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 8-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20 to +25 keys|r|cffffffff>|r  w/ me for more info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475546,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						38, -- [4]
+						["n"] = 4,
+					},
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:47]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Frostbullet-Draenor:349:CHANNEL:1|h|cff006fdcFrostbullet|r|h|cffd8d8d8]|r: [RW] (Sylvanas ) SOD HC10/10=200k with 1VIP=380k at 12:00<13:30<15:00<16:00<21:30 and 23:30CET/Mythic SOD 8800k+Mount and 2 traders /M+ Keys< M15=105k/M20=520k/KSM=1640k/4x15=360k/10x15=900k/SylvHC=50K/KT+Sylv=80k/TazaHM=190k/Torghast/PVP /w for info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475546,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						46, -- [4]
+						["n"] = 4,
+					},
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:50]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Standforever-Draenor:350:CHANNEL:1|h|cffa9d271Standforever|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r |cffffffff<|r|cff00ff00DISCOUNTS|r|cffffffff>|rM+15 100K(buy 2x for free armor stack) |||cffffffff<|r|cff00ff00|| KSM 1540K|r|cffffffff>|r |cffffffff<|r|cff00ff00[SoD HC 200K(2xVIP DISCOUNTSK) - SoD MYTHIC|r|cffffffff>|r  M+ 10-22] ||Taza NM-80K HM-190K|||| HC Syl 50K KT 40K both 80K ||Torghast 2x12=95K ||2v2-3v3-Rbg /w for",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475549,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:51]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novastaffs-Draenor:351:CHANNEL:1|h|cff00fe97Novastaffs|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r WTS |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10HC =200K > VIP Trader || |cffffffff<|r|cff00ff00 SylvanasHC=50K |r|cffffffff>|r || Last 2 HC=80K || M+15=100k|| M+20=510K|| KSH 8xM20=3500K|| KSM=1540k|| Tazavesh HM 190K|| M16-24 InTime || Torghast || PvP 2v2/3v3 || Levelup 50-60|| Legion M+15 ||",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475550,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:51]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Albodawn-Draenor:352:CHANNEL:1|h|cfffe7b09Albodawn|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00SYLVANAS|r|cffffffff>|r|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r10/10=|cffffffff<|r|cff00ff00200k|r|cffffffff>|r +VIP TRADER 1xM+15=|cffffffff<|r|cff00ff00100k|r|cffffffff>|r 4x+15=|cffffffff<|r|cff00ff00360k|r|cffffffff>|r Mythic10/10 +2 FREE VIPS M+20=|cffffffff<|r|cff00ff00520k|r|cffffffff>|r LAST 2 BOSS =|cffffffff<|r|cff00ff0080k|r|cffffffff>|r  Torghast / Tazavesh / PvP ! All Cheap Whisper for info!",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475550,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:51]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Syldraenor-Draenor:353:CHANNEL:1|h|cff00fe97Syldraenor|r|h|cffd8d8d8]|r: SYLVANAS // M+15 = 105k In Time // M+18 = 300k // M+19 = 450K // M+20 = 510K // M+21 = 650K // M+25 = 3000k // U CAN CHOOSE KEY // 4X15 = 360K // 10X15 = 900K // FREE ARMOR STACK // SOD HC-MYTHIC +Free Trader // LAST 2BOSS EVERY 30 MIN // TORGHAST // W",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475550,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:53]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Raraidraen-Draenor:354:CHANNEL:1|h|cff00fe97Raraidraen|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING  |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r Heroic 200k|r|cffffffff>|r|cffffffff<|r|cff00ff00VIP Traders|r|cffffffff>|r|cffffffff<|r|cff00ff00M15=100k|r|cffffffff>|r  |cffffffff<|r|cff00ff00M20=510k|r|cffffffff>|r |cffffffff<|r|cff00ff00KSM 1540k and KSM hero 3550k|r|cffffffff>|r  |cffffffff<|r|cff00ff00|cfff00|Hachievement:15134:Player-1403-0A04E106:0:0:0:-1:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r  SYLVANAS 50k|r|cffffffff>|r|cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r|cffffffff<|r|cff00ff00LAST 2 BOSS 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1194:23|h[Tazavesh, the Veiled Market]|h|r NM 80k-HM 190k|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475552,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:53]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Icyveinz-Draenor:355:CHANNEL:1|h|cfff38bb9Icyveinz|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r Offering Today |cfff00|Hachievement:15127:Player-1305-0BCEAB76:0:0:0:-1:0:0|h[Heroic: Sanctum of Domination]|h|r 200k@ (14/16/19/20/21/23) Mythic 10/10 +Mount &VIP |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r / Sylvanas 50K |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r40K(Both 80K) /+15=105k (4x15=375K) +14=90K (4x14=340K) /+20=510K// +20-26 intime + KSM//PVP/RBG",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475552,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:53]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lycanboost-Draenor:356:CHANNEL:1|h|cfff38bb9Lycanboost|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r Offering Today |cfff00|Hachievement:15127:Player-1403-0A17D609:0:0:0:-1:0:0|h[Heroic: Sanctum of Domination]|h|r  200K (VIP 160K )@ (14/16/19/20/21/23) Mythic 10/10 +Mount & 2-6x VIP |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r / |cffffffff<|r|cff00ff00SYLVANAS |r|cffffffff>|r HC 50K |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r 40K (Both 80K ) 15=105k (4x15=375K) +14=100K /+20=510/ 25-26 INTIME/PVP",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475552,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:54]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lovleyday-Draenor:357:CHANNEL:1|h|cff00fe97Lovleyday|r|h|cffd8d8d8]|r: [RW] Nova Offering|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rMythic-HC 200k VIP-160k|r|cffffffff>|r|cffffffff<|r|cff00ff004x15=350k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+15=95k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+19=440k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=290k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+17=205k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSH 8x+20=3550k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM |cfff00|Hachievement:15078:Player-1403-0A0FE3C9:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=770k|r|cffffffff>|r|cffffffff<|r|cff00ff00LEVELING 50-60 = 550K|r|cffffffff>|r|cffffffff<|r|cff00ff00PVP|r|cffffffff>|r|cffffffff<|r|cff00ff00TORGHST|r|cffffffff>|r|cffffffff<|r|cff00ff00MOUNT|r|cffffffff>|r|cffffffff<|r|cff00ff00LEGACY|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475553,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:54]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Sylsboosts-Draenor:359:CHANNEL:1|h|cfffe7b09Sylsboosts|r|h|cffd8d8d8]|r: SYLVANAS / M+15 = 105K In Time /|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC-Mythic +TRADER /LAST 2BOSS EVERY 30 MIN /M+20 = 510K /M+19 = 450k /M+18 = 300k /FREE SPECIFIC KEY /KSM 16X15 /10X15=900k /4x15=360k /+ARMOR STACK/TORGHAST /W",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475553,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:55]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Silviananas-Draenor:360:CHANNEL:1|h|cff006fdcSilviananas|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00SYLVANAS|r|cffffffff>|r WTS M15 135k intime (125k weekly )|| M14 115k M10 75k { TAZAVESH HM|||cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC ||2 last boss every 20 min.. torghast& / lvling /w me for more info.",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475554,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:55]|h|r |Hchannel:channel:1|h[1] |h<Busy>|cffd8d8d8[|r|Hplayer:Tráderáid-Draenor:361:CHANNEL:1|h|cff006fdcTráderáid|r|h|cffd8d8d8]|r: [RW] WTB All CSGO/Dota2/Rust/TF2/Steam Items for TBC/SoM/Retail Gold & WTT Gold Between TBC and Retail Servers (both ways) go |cffffffff|Hurl:trade-raid.com|h[trade-raid.com]|h|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475554,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						66, -- [4]
+						["n"] = 4,
+					},
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:55]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Titanserives-Draenor:362:CHANNEL:1|h|cfffe7b09Titanserives|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn Boosting|r|cffffffff>|r |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10 HC 210k |cffffffff<|r|cff00ff00Trader 160k|r|cffffffff>|r |cffffffff<|r|cff00ff00+15 105K|r|cffffffff>|r |cffffffff<|r|cff00ff004x15 390k|r|cffffffff>|r|cffffffff<|r|cff00ff00+20 510k|r|cffffffff>|r [Ahead of the Curve: Sylvanas Windrunner] |cffffffff<|r|cff00ff00Sylvanas + KT 80k|r|cffffffff>|r  PVP /Torghast/LVLUP /w me for more info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475554,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:55]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Voidcommunit-Draenor:363:CHANNEL:1|h|cfffef367Voidcommunit|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Void|r|cffffffff>|r Selling /  Mythic+ 10-22> [M+10=70k / M+14=90k || M+15=95k Timed /+16=160k /+17=200k /+18=290k  / +20 = 500k / Tazavesh  HM 180k / Torghast 12=45k / recruiting boosters /w",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475554,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:57]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaservizze-Draenor:364:CHANNEL:1|h|cff006fdcNovaservizze|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00 N O V A |r|cffffffff>|r |cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r10/10HC= 200k/LEGACY & MOUNTS & ACHIS & PVP 30% DISCOUNT/FREE ARMOR+15 INTIME 100k [SPECIAL DEALS 4X15=360K]20=510K Tazavash HM=190k]50-60Lv=550k/ Thorghast 2x12=95K /w",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475556,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:57]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dawnjeoo-Draenor:365:CHANNEL:1|h|cfffe7b09Dawnjeoo|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r IS OFFERING |cffffffff<|r|cff00ff00|cfff00|Hachievement:15127:Player-1403-0A114394:1:9:22:21:4294967295|h[Heroic: Sanctum of Domination]|h|r 210K |r|cffffffff>|r |cffffffff<|r|cff00ff00VIP Trader 160k|r|cffffffff>|r [ Sylavnas 50k>|cffffffff<|r|cff00ff00KT 40K|r|cffffffff>|r|cffffffff<|r|cff00ff00Both 80K ] || M+15=105k <M+14=95K|r|cffffffff>|r |cffffffff<|r|cff00ff00Armor Stack|r|cffffffff>|r || 4x15 375K || |cffffffff<|r|cff00ff00M+17=200k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=300k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r||LVLUP 51/60|| Also Selling |cfff00|Hachievement:12568:Player-1403-0A114394:1:9:22:19:4294967295|h[The Alliance Slayer]|h|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475556,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						54, -- [4]
+						["n"] = 4,
+					},
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:57]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novababy-Draenor:366:CHANNEL:1|h|cff00fe97Novababy|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00**NOVA**|r|cffffffff>|r Is OFFERING  || |cffffffff<|r|cff00ff00HEROIC |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r=200k, VIP Trader=160k|r|cffffffff>|r   |cffffffff<|r|cff00ff00Mythic Sanctum|r|cffffffff>|r   |cffffffff<|r|cff00ff00KSM=1540k|r|cffffffff>|r   |cffffffff<|r|cff00ff00KSH=3550k|r|cffffffff>|r   |cffffffff<|r|cff00ff00M+10=75k|r|cffffffff>|r   |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r   |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r   |cffffffff<|r|cff00ff00Sylvanas Heroic=50k|r|cffffffff>|r   |cffffffff<|r|cff00ff00Last 2 Heroic=80k|r|cffffffff>|r ||",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475556,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:58]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ballasadv-Draenor:367:CHANNEL:1|h|cff3ec6eaBallasadv|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Ballasa Community|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Kelthuzad|r|cffffffff>|r 40k // |cffffffff<|r|cff00ff00Sylvanas|r|cffffffff>|r 50k // Both 80k. Come and get your Curve achievement with 10/10M Players // Chance to get 246ilvl item // Going Now ||||",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475557,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:58]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Discounters-Draenor:368:CHANNEL:1|h|cff00fe97Discounters|r|h|cffd8d8d8]|r: [RW] Nova Offering|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rMythic-HC 200k VIP-160k|r|cffffffff>|r|cffffffff<|r|cff00ff004x15=350k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+15=95k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+19=440k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=290k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+17=205k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSH 8x+20=3550k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM |cfff00|Hachievement:15078:Player-1403-0A1A6826:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=770k|r|cffffffff>|r|cffffffff<|r|cff00ff00LEVELING 50-60 = 550K|r|cffffffff>|r|cffffffff<|r|cff00ff00PVP|r|cffffffff>|r|cffffffff<|r|cff00ff00TORGHST|r|cffffffff>|r|cffffffff<|r|cff00ff00MOUNT|r|cffffffff>|r|cffffffff<|r|cff00ff00LEGACY|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475557,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:59]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Offerboosts-Draenor:369:CHANNEL:1|h|cff00fe97Offerboosts|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|rHeroic 10/10HC 200K , VIP Trader ||SylvanasHC 50k|| Last 2 HC 80k || |cffffffff<|r|cff00ff00M+ 10-22|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+16=160k|r|cffffffff>|r |cffffffff<|r|cff00ff00KSM 1540K|r|cffffffff>|r |cffffffff<|r|cff00ff00Tazavesh HM 190k|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 1-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP 2v2||3v3|r|cffffffff>|r |cffffffff<|r|cff00ff00LevelUp 50-60|r|cffffffff>|r |cffffffff<|r|cff00ff00Legion M+15|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475558,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:59]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Weboostyou-Draenor:370:CHANNEL:1|h|cff00fe97Weboostyou|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn|r|cffffffff>|r Offering HEROIC Sylvanas |cffffffff<|r|cff00ff0050k|r|cffffffff>|r Kel'Thuzad|cffffffff<|r|cff00ff0040k|r|cffffffff>|r BOTH |cffffffff<|r|cff00ff0080k|r|cffffffff>|r MYTHIC+ (1-24) , HEROIC & MYTHIC 10/10, Torghast / Arena / Leveling and more! /w me for more info - gold only",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475558,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						22, -- [4]
+						["n"] = 4,
+					},
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:25:59]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novabest-Draenor:371:CHANNEL:1|h|cfffefefeNovabest|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r SoD HC 200K(1x VIP 160K--2x VIP 300K) ||SoD MYTHIC ||HC Syl 50K KT 40K both 80K ||M+15 100K ||M+16 160K ||M+180 290K ||KSM(16x +15) 1540K ||KSH(8x +20) 3550K ||Taza HM 190K || Torghast 2x12=95K /w for info!",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475558,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:02]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dariova-Draenor:372:CHANNEL:1|h|cff00fe97Dariova|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00N O V A|r|cffffffff>|r OFFERS|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r HC 200k|r|cffffffff>|r|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r 50k|r|cffffffff>|r|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r 40k|r|cffffffff>|r|cffffffff<|r|cff00ff00Last 2 Boss 80k|r|cffffffff>|r|cffffffff<|r|cff00ff00+15=100k|r|cffffffff>|r|cffffffff<|r|cff00ff004x 15=350k|r|cffffffff>|r |cffffffff<|r|cff00ff00FREE ARMORSTACK FOR 2x run|r|cffffffff>|r |cffffffff<|r|cff00ff00+14=95k|r|cffffffff>|r |cffffffff<|r|cff00ff00+10=75k|r|cffffffff>|r |cffffffff<|r|cff00ff00+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM with ARMORSTACK=1540k|r|cffffffff>|r|cffffffff<|r|cff00ff00TAZAVESH HM 190k-NM 80k|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475561,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						58, -- [4]
+						["n"] = 4,
+					},
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:02]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novahearty-Draenor:373:CHANNEL:1|h|cff006fdcNovahearty|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r  [ M+15 100k ][ M+15x2 185k ] [ M+15x4 360k ]|cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r10/10 HC 200k 1 Vip 160 2x Vip 300k ] [Legion Mythic+ 150k ] KSH 3550k [  PVP ] [ Torghast ] [ Sylvanas HC 50k ][ Last 2 Bosss 80k]",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475561,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:03]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Frostbullet-Draenor:374:CHANNEL:1|h|cff006fdcFrostbullet|r|h|cffd8d8d8]|r: [RW] (Sylvanas ) SOD HC10/10=200k with 1VIP=380k at 12:00<13:30<15:00<16:00<21:30 and 23:30CET/Mythic SOD 8800k+Mount and 2 traders /M+ Keys< M15=105k/M20=520k/KSM=1640k/4x15=360k/10x15=900k/SylvHC=50K/KT+Sylv=80k/TazaHM=190k/Torghast/PVP /w for info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475562,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						46, -- [4]
+						["n"] = 4,
+					},
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:03]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Windroare-Draenor:375:CHANNEL:1|h|cff00fe97Windroare|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Void|r|cffffffff>|r Selling /  [M+10=70k / M+14=90k || M+15=95k Timed /+16=160k /+17=200k /+18=290k  / +20 = 500k / Tazavesh  HM 180k / Torghast 12=45k / recruiting boosters /w",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475562,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						60, -- [4]
+						["n"] = 4,
+					},
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:04]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dronovimity-Draenor:376:CHANNEL:1|h|cff00fe97Dronovimity|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC 200k AND VIP TRADER|r|cffffffff>|r |cffffffff<|r|cff00ff00MYTHIC|r|cffffffff>|r |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2441:15|h[Sylvanas Windrunner]|h|r HC 50k|r|cffffffff>|r |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2440:15|h[Kel'Thuzad]|h|r  HC 40k|r|cffffffff>|r |cffffffff<|r|cff00ff00BOTH BOSSES 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00+15=100k|r|cffffffff>|r |cffffffff<|r|cff00ff00+14=95k|r|cffffffff>|r |cffffffff<|r|cff00ff00KEYSTONE MASTER=1540k|r|cffffffff>|r  |cffffffff<|r|cff00ff00+10=75k|r|cffffffff>|r|cffffffff<|r|cff00ff00+20= 510k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Tazavesh NM 80k-HM 190k|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475563,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:06]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Syldraenor-Draenor:378:CHANNEL:1|h|cff00fe97Syldraenor|r|h|cffd8d8d8]|r: SYLVANAS // M+15 = 105k In Time // M+18 = 300k // M+19 = 450K // M+20 = 510K // M+21 = 650K // M+25 = 3000k // U CAN CHOOSE KEY // 4X15 = 360K // 10X15 = 900K // FREE ARMOR STACK // SOD HC-MYTHIC +Free Trader // LAST 2BOSS EVERY 30 MIN // TORGHAST // W",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475565,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:07]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dawnabsolut-Draenor:379:CHANNEL:1|h|cff006fdcDawnabsolut|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Sylvanas 50k|r|cffffffff>|r |cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r |cffffffff<|r|cff00ff00Last 2 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15 100k|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 HC 210K Vips available|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 Mythic + 2 Vips + Mount 8.8M|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 8-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20 to +25 keys|r|cffffffff>|r  w/ me for more info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475566,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:07]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Absodawn-Draenor:380:CHANNEL:1|h|cff006fdcAbsodawn|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Sylvanas 50k|r|cffffffff>|r |cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r |cffffffff<|r|cff00ff00Last 2 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15 100k|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 HC 210K Vips available|r|cffffffff>|r |cffffffff<|r|cff00ff0010/10 Mythic + 2 Vips + Mount 8.8M|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 8-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20 to +25 keys|r|cffffffff>|r  w/ me for more info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475566,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						38, -- [4]
+						["n"] = 4,
+					},
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:07]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novastaffs-Draenor:381:CHANNEL:1|h|cff00fe97Novastaffs|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r WTS |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10HC =200K > VIP Trader || |cffffffff<|r|cff00ff00 SylvanasHC=50K |r|cffffffff>|r || Last 2 HC=80K || M+15=100k|| M+20=510K|| KSH 8xM20=3500K|| KSM=1540k|| Tazavesh HM 190K|| M16-24 InTime || Torghast || PvP 2v2/3v3 || Levelup 50-60|| Legion M+15 ||",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475566,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:08]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novarachel-Draenor:382:CHANNEL:1|h|cff006fdcNovarachel|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA |r|cffffffff>|r [+15 Intime=100k] [10/10 HC =200K / 10Mythic =8,8M+Mount+2 VIP ] [Legion Mythic+ 15=135k weekly /225k intime ] [2x+15=190k] [4x+15 Intime=360K ]  [Taza HM=190k ] [Level/Mounts/Legacy/PVP] [EVERY 30 MIN KT+Sylva=80k ] [Layer 12x2=95k ] /w",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475567,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						36, -- [4]
+						["n"] = 4,
+					},
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:08]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Albodawn-Draenor:383:CHANNEL:1|h|cfffe7b09Albodawn|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00SYLVANAS|r|cffffffff>|r|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r10/10=|cffffffff<|r|cff00ff00200k|r|cffffffff>|r +VIP TRADER 1xM+15=|cffffffff<|r|cff00ff00100k|r|cffffffff>|r 4x+15=|cffffffff<|r|cff00ff00360k|r|cffffffff>|r Mythic10/10 +2 FREE VIPS M+20=|cffffffff<|r|cff00ff00520k|r|cffffffff>|r LAST 2 BOSS =|cffffffff<|r|cff00ff0080k|r|cffffffff>|r  Torghast / Tazavesh / PvP ! All Cheap Whisper for info!",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475567,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:09]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Sylsboosts-Draenor:384:CHANNEL:1|h|cfffe7b09Sylsboosts|r|h|cffd8d8d8]|r: SYLVANAS / M+15 = 105K In Time /|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC-Mythic +TRADER /LAST 2BOSS EVERY 30 MIN /M+20 = 510K /M+19 = 450k /M+18 = 300k /FREE SPECIFIC KEY /KSM 16X15 /10X15=900k /4x15=360k /+ARMOR STACK/TORGHAST /W",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475568,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:10]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaservicer-Draenor:385:CHANNEL:1|h|cff00fe97Novaservicer|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00 N O V A |r|cffffffff>|r CURVE BOTH 80k & 10/10 HC 200k / 0-24 Keys FREE ARMOR+15 INTIME 100k 2x15=190K [SPECIAL DEALS 4X15=360K/5x15=438K]6x15 =525K]7x=613k] 8x15=700k 16=160k 17=205k 18=290k 19=440k 20=510k Tazavash HM=190k]50-60Lv=550k]Thorgast 2x12=95k]PVP]",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475569,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						68, -- [4]
+						["n"] = 4,
+					},
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:10]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Titanserives-Draenor:386:CHANNEL:1|h|cfffe7b09Titanserives|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn Boosting|r|cffffffff>|r |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10 HC 210k |cffffffff<|r|cff00ff00Trader 160k|r|cffffffff>|r |cffffffff<|r|cff00ff00+15 105K|r|cffffffff>|r |cffffffff<|r|cff00ff004x15 390k|r|cffffffff>|r|cffffffff<|r|cff00ff00+20 510k|r|cffffffff>|r [Ahead of the Curve: Sylvanas Windrunner] |cffffffff<|r|cff00ff00Sylvanas + KT 80k|r|cffffffff>|r  PVP /Torghast/LVLUP /w me for more info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475569,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:10]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novadev-Draenor:387:CHANNEL:1|h|cff3ec6eaNovadev|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r Offering HC Sanctum 200k  |cffffffff<|r|cff00ff002x VIP Traders Discount|r|cffffffff>|r  |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Sylvanas-|r|cffffffff>|r50k  Kel-40k  |cffffffff<|r|cff00ff00Last2-|r|cffffffff>|r80k  |cffffffff<|r|cff00ff004x+15=350k|r|cffffffff>|r  |cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Legion M+15=135k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Tazavesh-|r|cffffffff>|r190k  |cffffffff<|r|cff00ff00KSM 16x +15 =1540k|r|cffffffff>|r  |cffffffff<|r|cff00ff00KSH 8x +20 =3550k|r|cffffffff>|r Torghast - PvP - Leveling /w me.",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475569,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:11]|h|r |Hchannel:channel:1|h[1] |h<Away>|cffd8d8d8[|r|Hplayer:Naassimaa-Draenor:388:CHANNEL:1|h|cff00fe97Naassimaa|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Sylvanas|r|cffffffff>|r10/10 SoD At 16:00  Realm time ( Personal loot =200k ) >|cffffffff<|r|cff00ff00 (1x Vip 380k)|| (2xVip=530k) |r|cffffffff>|r Sylvanas=50k |cffffffff<|r|cff00ff00 Kt=40k |r|cffffffff>|r ( Both=80k )  >>KeystoneMaster=1640k(8x15=820k) >  M+15=105k > 4x15=380k>> Mythic Raid 10/10 > M+20=510k>Torghast>Legion Dungeon",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475570,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						72, -- [4]
+						["n"] = 4,
+					},
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:12]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lovleyday-Draenor:390:CHANNEL:1|h|cff00fe97Lovleyday|r|h|cffd8d8d8]|r: [RW] Nova Offering|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rMythic-HC 200k VIP-160k|r|cffffffff>|r|cffffffff<|r|cff00ff004x15=350k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+15=95k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+19=440k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=290k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+17=205k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSH 8x+20=3550k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM |cfff00|Hachievement:15078:Player-1403-0A0FE3C9:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=770k|r|cffffffff>|r|cffffffff<|r|cff00ff00LEVELING 50-60 = 550K|r|cffffffff>|r|cffffffff<|r|cff00ff00PVP|r|cffffffff>|r|cffffffff<|r|cff00ff00TORGHST|r|cffffffff>|r|cffffffff<|r|cff00ff00MOUNT|r|cffffffff>|r|cffffffff<|r|cff00ff00LEGACY|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475571,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						52, -- [4]
+						["n"] = 4,
+					},
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:13]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Raraidraen-Draenor:391:CHANNEL:1|h|cff00fe97Raraidraen|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING  |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r Heroic 200k|r|cffffffff>|r|cffffffff<|r|cff00ff00VIP Traders|r|cffffffff>|r|cffffffff<|r|cff00ff00M15=100k|r|cffffffff>|r  |cffffffff<|r|cff00ff00M20=510k|r|cffffffff>|r |cffffffff<|r|cff00ff00KSM 1540k and KSM hero 3550k|r|cffffffff>|r  |cffffffff<|r|cff00ff00|cfff00|Hachievement:15134:Player-1403-0A04E106:0:0:0:-1:0:0|h[Ahead of the Curve: Sylvanas Windrunner]|h|r  SYLVANAS 50k|r|cffffffff>|r|cffffffff<|r|cff00ff00KT 40k|r|cffffffff>|r|cffffffff<|r|cff00ff00LAST 2 BOSS 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1194:23|h[Tazavesh, the Veiled Market]|h|r NM 80k-HM 190k|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475572,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:14]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Icyveinz-Draenor:392:CHANNEL:1|h|cfff38bb9Icyveinz|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r Offering Today |cfff00|Hachievement:15127:Player-1305-0BCEAB76:0:0:0:-1:0:0|h[Heroic: Sanctum of Domination]|h|r 200k@ (14/16/19/20/21/23) Mythic 10/10 +Mount &VIP |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r / Sylvanas 50K |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r40K(Both 80K) /+15=105k (4x15=375K) +14=90K (4x14=340K) /+20=510K// +20-26 intime + KSM//PVP/RBG",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475573,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						30, -- [4]
+						["n"] = 4,
+					},
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:14]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Lycanboost-Draenor:393:CHANNEL:1|h|cfff38bb9Lycanboost|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r Offering Today |cfff00|Hachievement:15127:Player-1403-0A17D609:0:0:0:-1:0:0|h[Heroic: Sanctum of Domination]|h|r  200K (VIP 160K )@ (14/16/19/20/21/23) Mythic 10/10 +Mount & 2-6x VIP |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r / |cffffffff<|r|cff00ff00SYLVANAS |r|cffffffff>|r HC 50K |cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r 40K (Both 80K ) 15=105k (4x15=375K) +14=100K /+20=510/ 25-26 INTIME/PVP",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475573,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						28, -- [4]
+						["n"] = 4,
+					},
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:15]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Discounters-Draenor:394:CHANNEL:1|h|cff00fe97Discounters|r|h|cffd8d8d8]|r: [RW] Nova Offering|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|rMythic-HC 200k VIP-160k|r|cffffffff>|r|cffffffff<|r|cff00ff004x15=350k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+15=95k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+19=440k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=290k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+17=205k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSH 8x+20=3550k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM |cfff00|Hachievement:15078:Player-1403-0A1A6826:0:0|h[Shadowlands Keystone Master: Season Two]|h|r8x+15=770k|r|cffffffff>|r|cffffffff<|r|cff00ff00LEVELING 50-60 = 550K|r|cffffffff>|r|cffffffff<|r|cff00ff00PVP|r|cffffffff>|r|cffffffff<|r|cff00ff00TORGHST|r|cffffffff>|r|cffffffff<|r|cff00ff00MOUNT|r|cffffffff>|r|cffffffff<|r|cff00ff00LEGACY|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475574,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						4, -- [4]
+						["n"] = 4,
+					},
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:15]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Voidcommunit-Draenor:395:CHANNEL:1|h|cfffef367Voidcommunit|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Void|r|cffffffff>|r Selling /  Mythic+ 10-22> [M+10=70k / M+14=90k || M+15=95k Timed /+16=160k /+17=200k /+18=290k  / +20 = 500k / Tazavesh  HM 180k / Torghast 12=45k / recruiting boosters /w",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475574,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:15]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Offerboosts-Draenor:396:CHANNEL:1|h|cff00fe97Offerboosts|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING |cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|rHeroic 10/10HC 200K , VIP Trader ||SylvanasHC 50k|| Last 2 HC 80k || |cffffffff<|r|cff00ff00M+ 10-22|r|cffffffff>|r |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+16=160k|r|cffffffff>|r |cffffffff<|r|cff00ff00KSM 1540K|r|cffffffff>|r |cffffffff<|r|cff00ff00Tazavesh HM 190k|r|cffffffff>|r |cffffffff<|r|cff00ff00Torghast 1-12|r|cffffffff>|r |cffffffff<|r|cff00ff00PVP 2v2||3v3|r|cffffffff>|r |cffffffff<|r|cff00ff00LevelUp 50-60|r|cffffffff>|r |cffffffff<|r|cff00ff00Legion M+15|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475574,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:16]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novababy-Draenor:397:CHANNEL:1|h|cff00fe97Novababy|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00**NOVA**|r|cffffffff>|r Is OFFERING  || |cffffffff<|r|cff00ff00HEROIC |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r=200k, VIP Trader=160k|r|cffffffff>|r   |cffffffff<|r|cff00ff00Mythic Sanctum|r|cffffffff>|r   |cffffffff<|r|cff00ff00KSM=1540k|r|cffffffff>|r   |cffffffff<|r|cff00ff00KSH=3550k|r|cffffffff>|r   |cffffffff<|r|cff00ff00M+10=75k|r|cffffffff>|r   |cffffffff<|r|cff00ff00M+15=100k|r|cffffffff>|r   |cffffffff<|r|cff00ff00PVP|r|cffffffff>|r   |cffffffff<|r|cff00ff00Sylvanas Heroic=50k|r|cffffffff>|r   |cffffffff<|r|cff00ff00Last 2 Heroic=80k|r|cffffffff>|r ||",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475575,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						20, -- [4]
+						["n"] = 4,
+					},
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:16]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novabest-Draenor:398:CHANNEL:1|h|cfffefefeNovabest|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r SoD HC 200K(1x VIP 160K--2x VIP 300K) ||SoD MYTHIC ||HC Syl 50K KT 40K both 80K ||M+15 100K ||M+16 160K ||M+180 290K ||KSM(16x +15) 1540K ||KSH(8x +20) 3550K ||Taza HM 190K || Torghast 2x12=95K /w for info!",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475575,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [111]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:17]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Standforever-Draenor:399:CHANNEL:1|h|cffa9d271Standforever|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r |cffffffff<|r|cff00ff00DISCOUNTS|r|cffffffff>|rM+15 100K(buy 2x for free armor stack) |||cffffffff<|r|cff00ff00|| KSM 1540K|r|cffffffff>|r |cffffffff<|r|cff00ff00[SoD HC 200K(2xVIP DISCOUNTSK) - SoD MYTHIC|r|cffffffff>|r  M+ 10-22] ||Taza NM-80K HM-190K|||| HC Syl 50K KT 40K both 80K ||Torghast 2x12=95K ||2v2-3v3-Rbg /w for",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475576,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						44, -- [4]
+						["n"] = 4,
+					},
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:17]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Ballasadv-Draenor:400:CHANNEL:1|h|cff3ec6eaBallasadv|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Ballasa Community|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00Kelthuzad|r|cffffffff>|r 40k // |cffffffff<|r|cff00ff00Sylvanas|r|cffffffff>|r 50k // Both 80k. Come and get your Curve achievement with 10/10M Players // Chance to get 246ilvl item // Going Now ||||",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475576,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+				}, -- [113]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:18]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dawnjeoo-Draenor:401:CHANNEL:1|h|cfffe7b09Dawnjeoo|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00DAWN|r|cffffffff>|r IS OFFERING |cffffffff<|r|cff00ff00|cfff00|Hachievement:15127:Player-1403-0A114394:1:9:22:21:4294967295|h[Heroic: Sanctum of Domination]|h|r 210K |r|cffffffff>|r |cffffffff<|r|cff00ff00VIP Trader 160k|r|cffffffff>|r [ Sylavnas 50k>|cffffffff<|r|cff00ff00KT 40K|r|cffffffff>|r|cffffffff<|r|cff00ff00Both 80K ] || M+15=105k <M+14=95K|r|cffffffff>|r |cffffffff<|r|cff00ff00Armor Stack|r|cffffffff>|r || 4x15 375K || |cffffffff<|r|cff00ff00M+17=200k|r|cffffffff>|r |cffffffff<|r|cff00ff00M+18=300k|r|cffffffff>|r|cffffffff<|r|cff00ff00M+20=510k|r|cffffffff>|r||LVLUP 51/60|| Also Selling |cfff00|Hachievement:12568:Player-1403-0A114394:1:9:22:19:4294967295|h[The Alliance Slayer]|h|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475577,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						54, -- [4]
+						["n"] = 4,
+					},
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:18]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Frostbullet-Draenor:402:CHANNEL:1|h|cff006fdcFrostbullet|r|h|cffd8d8d8]|r: [RW] (Sylvanas ) SOD HC10/10=200k with 1VIP=380k at 12:00<13:30<15:00<16:00<21:30 and 23:30CET/Mythic SOD 8800k+Mount and 2 traders /M+ Keys< M15=105k/M20=520k/KSM=1640k/4x15=360k/10x15=900k/SylvHC=50K/KT+Sylv=80k/TazaHM=190k/Torghast/PVP /w for info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475577,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						46, -- [4]
+						["n"] = 4,
+					},
+				}, -- [115]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:20]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaadraenor-Draenor:403:CHANNEL:1|h|cff00fe97Novaadraenor|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Nova|r|cffffffff>|r Offering |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r10/10Hc=200K|r|cffffffff>|r |cffffffff<|r|cff00ff00Last2 bosses=80K|r|cffffffff>|r  |cffffffff<|r|cff00ff00Mythic SOD|r|cffffffff>|r  |||cffffffff<|r|cff00ff00M0-M22|r|cffffffff>|r  |cffffffff<|r|cff00ff00M15=100K - 4x15=350K|r|cffffffff>|r  |cffffffff<|r|cff00ff00M20=510K|r|cffffffff>|r  |cffffffff<|r|cff00ff00Free armor stack|r|cffffffff>|r  |cffffffff<|r|cff00ff00Ksm|r|cffffffff>|r |||cffffffff<|r|cff00ff00Pvp|r|cffffffff>|r |cffffffff<|r|cff00ff00Lvlup|r|cffffffff>|r |cffffffff<|r|cff00ff00Mount&Pet|r|cffffffff>|rGold only /w For more info!",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475579,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+				}, -- [116]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:21]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novahearty-Draenor:404:CHANNEL:1|h|cff006fdcNovahearty|r|h|cffd8d8d8]|r: [RW] |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r  [ M+15 100k ][ M+15x2 185k ] [ M+15x4 360k ]|cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r10/10 HC 200k 1 Vip 160 2x Vip 300k ] [Legion Mythic+ 150k ] KSH 3550k [  PVP ] [ Torghast ] [ Sylvanas HC 50k ][ Last 2 Bosss 80k]",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475580,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+				}, -- [117]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:21]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Syldraenor-Draenor:405:CHANNEL:1|h|cff00fe97Syldraenor|r|h|cffd8d8d8]|r: SYLVANAS // M+15 = 105k In Time // M+18 = 300k // M+19 = 450K // M+20 = 510K // M+21 = 650K // M+25 = 3000k // U CAN CHOOSE KEY // 4X15 = 360K // 10X15 = 900K // FREE ARMOR STACK // SOD HC-MYTHIC +Free Trader // LAST 2BOSS EVERY 30 MIN // TORGHAST // W",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475580,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						10, -- [4]
+						["n"] = 4,
+					},
+				}, -- [118]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:22]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dariova-Draenor:406:CHANNEL:1|h|cff00fe97Dariova|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00N O V A|r|cffffffff>|r OFFERS|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r HC 200k|r|cffffffff>|r|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2441:14|h[Sylvanas Windrunner]|h|r 50k|r|cffffffff>|r|cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2440:14|h[Kel'Thuzad]|h|r 40k|r|cffffffff>|r|cffffffff<|r|cff00ff00Last 2 Boss 80k|r|cffffffff>|r|cffffffff<|r|cff00ff00+15=100k|r|cffffffff>|r|cffffffff<|r|cff00ff004x 15=350k|r|cffffffff>|r |cffffffff<|r|cff00ff00FREE ARMORSTACK FOR 2x run|r|cffffffff>|r |cffffffff<|r|cff00ff00+14=95k|r|cffffffff>|r |cffffffff<|r|cff00ff00+10=75k|r|cffffffff>|r |cffffffff<|r|cff00ff00+20=510k|r|cffffffff>|r|cffffffff<|r|cff00ff00KSM with ARMORSTACK=1540k|r|cffffffff>|r|cffffffff<|r|cff00ff00TAZAVESH HM 190k-NM 80k|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475581,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						58, -- [4]
+						["n"] = 4,
+					},
+				}, -- [119]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:23]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novaservizze-Draenor:407:CHANNEL:1|h|cff006fdcNovaservizze|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00 N O V A |r|cffffffff>|r |cff66bbff|Hjournal:0:1193:16|h[Sanctum of Domination]|h|r10/10HC= 200k/LEGACY & MOUNTS & ACHIS & PVP 30% DISCOUNT/FREE ARMOR+15 INTIME 100k [SPECIAL DEALS 4X15=360K]20=510K Tazavash HM=190k]50-60Lv=550k/ Thorghast 2x12=95K /w",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475582,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+				}, -- [120]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:23]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Novastaffs-Draenor:408:CHANNEL:1|h|cff00fe97Novastaffs|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r WTS |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10HC =200K > VIP Trader || |cffffffff<|r|cff00ff00 SylvanasHC=50K |r|cffffffff>|r || Last 2 HC=80K || M+15=100k|| M+20=510K|| KSH 8xM20=3500K|| KSM=1540k|| Tazavesh HM 190K|| M16-24 InTime || Torghast || PvP 2v2/3v3 || Levelup 50-60|| Legion M+15 ||",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475582,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+				}, -- [121]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:24]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Albodawn-Draenor:409:CHANNEL:1|h|cfffe7b09Albodawn|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00SYLVANAS|r|cffffffff>|r|cff66bbff|Hjournal:0:1193:15|h[Sanctum of Domination]|h|r10/10=|cffffffff<|r|cff00ff00200k|r|cffffffff>|r +VIP TRADER 1xM+15=|cffffffff<|r|cff00ff00100k|r|cffffffff>|r 4x+15=|cffffffff<|r|cff00ff00360k|r|cffffffff>|r Mythic10/10 +2 FREE VIPS M+20=|cffffffff<|r|cff00ff00520k|r|cffffffff>|r LAST 2 BOSS =|cffffffff<|r|cff00ff0080k|r|cffffffff>|r  Torghast / Tazavesh / PvP ! All Cheap Whisper for info!",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475583,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						26, -- [4]
+						["n"] = 4,
+					},
+				}, -- [122]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:24]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Sylsboosts-Draenor:410:CHANNEL:1|h|cfffe7b09Sylsboosts|r|h|cffd8d8d8]|r: SYLVANAS / M+15 = 105K In Time /|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC-Mythic +TRADER /LAST 2BOSS EVERY 30 MIN /M+20 = 510K /M+19 = 450k /M+18 = 300k /FREE SPECIFIC KEY /KSM 16X15 /10X15=900k /4x15=360k /+ARMOR STACK/TORGHAST /W",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475583,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						16, -- [4]
+						["n"] = 4,
+					},
+				}, -- [123]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:24]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Dronovimity-Draenor:411:CHANNEL:1|h|cff00fe97Dronovimity|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00NOVA|r|cffffffff>|r OFFERING |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r HC 200k AND VIP TRADER|r|cffffffff>|r |cffffffff<|r|cff00ff00MYTHIC|r|cffffffff>|r |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2441:15|h[Sylvanas Windrunner]|h|r HC 50k|r|cffffffff>|r |cffffffff<|r|cff00ff00|cff66bbff|Hjournal:1:2440:15|h[Kel'Thuzad]|h|r  HC 40k|r|cffffffff>|r |cffffffff<|r|cff00ff00BOTH BOSSES 80k|r|cffffffff>|r |cffffffff<|r|cff00ff00+15=100k|r|cffffffff>|r |cffffffff<|r|cff00ff00+14=95k|r|cffffffff>|r |cffffffff<|r|cff00ff00KEYSTONE MASTER=1540k|r|cffffffff>|r  |cffffffff<|r|cff00ff00+10=75k|r|cffffffff>|r|cffffffff<|r|cff00ff00+20= 510k|r|cffffffff>|r  |cffffffff<|r|cff00ff00Tazavesh NM 80k-HM 190k|r|cffffffff>|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475583,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+				}, -- [124]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:25]|h|r |Hchannel:channel:1|h[1] |h<Busy>|cffd8d8d8[|r|Hplayer:Tráderáid-Draenor:412:CHANNEL:1|h|cff006fdcTráderáid|r|h|cffd8d8d8]|r: [RW] WTB All CSGO/Dota2/Rust/TF2/Steam Items for TBC/SoM/Retail Gold & WTT Gold Between TBC and Retail Servers (both ways) go |cffffffff|Hurl:trade-raid.com|h[trade-raid.com]|h|r",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475584,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						66, -- [4]
+						["n"] = 4,
+					},
+				}, -- [125]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:25]|h|r |Hchannel:channel:1|h[1] |h|cffd8d8d8[|r|Hplayer:Titanserives-Draenor:413:CHANNEL:1|h|cfffe7b09Titanserives|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Dawn Boosting|r|cffffffff>|r |cff66bbff|Hjournal:0:1193:14|h[Sanctum of Domination]|h|r 10/10 HC 210k |cffffffff<|r|cff00ff00Trader 160k|r|cffffffff>|r |cffffffff<|r|cff00ff00+15 105K|r|cffffffff>|r |cffffffff<|r|cff00ff004x15 390k|r|cffffffff>|r|cffffffff<|r|cff00ff00+20 510k|r|cffffffff>|r [Ahead of the Curve: Sylvanas Windrunner] |cffffffff<|r|cff00ff00Sylvanas + KT 80k|r|cffffffff>|r  PVP /Torghast/LVLUP /w me for more info",
+					["b"] = 0.9098039865493774,
+					["r"] = 0.7647059559822083,
+					["g"] = 0.9019608497619629,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475584,
+					["extraData"] = {
+						68, -- [1]
+						false, -- [2]
+						1, -- [3]
+						18, -- [4]
+						["n"] = 4,
+					},
+				}, -- [126]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 6 |4second:seconds;",
+					["timestamp"] = 20807.278,
+				}, -- [127]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 20807.278,
+				}, -- [128]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame3"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 12,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 1,
+					["b"] = 0,
+					["serverTime"] = 1641459978,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [1]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641460541,
+					["r"] = 1,
+				}, -- [2]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["b"] = 0,
+					["r"] = 1,
+					["serverTime"] = 1641461323,
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [3]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["g"] = 1,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641461547,
+					["b"] = 0,
+				}, -- [4]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 1,
+					["b"] = 0,
+					["serverTime"] = 1641461581,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [5]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641461730,
+					["r"] = 1,
+				}, -- [6]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["b"] = 0,
+					["r"] = 1,
+					["serverTime"] = 1641475348,
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [7]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["g"] = 1,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475447,
+					["b"] = 0,
+				}, -- [8]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["serverTime"] = 1641475590,
+					["r"] = 1,
+					["b"] = 0,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["g"] = 1,
+				}, -- [9]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 0 |4second:seconds;",
+					["timestamp"] = 20807.278,
+				}, -- [10]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 20807.278,
+				}, -- [11]
+				{
+					["message"] = "Speech to text allows you to add closed captioning in a voice channel.",
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame7"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame6"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame8"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame10"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame9"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 0,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+		["ChatFrame1"] = {
+			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
+			["headIndex"] = 73,
+			["ReplaceElements"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
+			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
+			["PushBack"] = nil --[[ skipped inline function ]],
+			["RemoveIf"] = nil --[[ skipped inline function ]],
+			["Clear"] = nil --[[ skipped inline function ]],
+			["PushFront"] = nil --[[ skipped inline function ]],
+			["OnLoad"] = nil --[[ skipped inline function ]],
+			["IsEmpty"] = nil --[[ skipped inline function ]],
+			["IsFull"] = nil --[[ skipped inline function ]],
+			["elements"] = {
+				{
+					["message"] = "|cff979797|Hpratcopy|h[08:56:26]|h|r Loot Specialization set to: Windwalker",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641459386,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [1]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:04:25]|h|r Loot Specialization set to: Windwalker",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641459865,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:04:26]|h|r |Hchannel:channel:2|h[2] |h Changed Channel: |Hchannel:CHANNEL:2|h[2. General - Dalaran]|h",
+					["b"] = 0.4745098352432251,
+					["r"] = 0.9098039865493774,
+					["g"] = 0.6196078658103943,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641459866,
+					["extraData"] = {
+						69, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:04:26]|h|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:CHANNEL:3|h[3. LocalDefense - Dalaran]|h",
+					["b"] = 0.4745098352432251,
+					["r"] = 0.9098039865493774,
+					["g"] = 0.8941177129745483,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641459866,
+					["extraData"] = {
+						70, -- [1]
+						false, -- [2]
+						4, -- [3]
+						5, -- [4]
+						["n"] = 4,
+					},
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:06:12]|h|r Type '/help' for a listing of a few commands.",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641459971,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:06:20]|h|r Loot Specialization set to: Windwalker",
+					["serverTime"] = 1641459979,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:15:42]|h|r Loot Specialization set to: Windwalker",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["serverTime"] = 1641460542,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:518:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:858:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Ghostlands]|h|r |cffffffff(|rCompleted 2/3/10|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:519:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:859:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Eversong Woods]|h|r |cffffffff(|rCompleted 2/3/10|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:520:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:627:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Dun Morogh]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:521:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:780:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Redridge Mountains]|h|r |cffffffff(|rCompleted 9/7/10|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:522:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:775:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Burning Steppes]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:523:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:768:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Tirisfal Glades]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:524:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:765:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Badlands]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:525:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:802:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Westfall]|h|r |cffffffff(|rCompleted 8/7/10|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:526:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:782:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Swamp of Sorrows]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:527:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:766:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Blasted Lands]|h|r |cffffffff(|rCompleted 13/10/12|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:528:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:772:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Hillsbrad Foothills]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:529:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:777:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Deadwind Pass]|h|r |cffffffff(|rCompleted 13/10/12|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:530:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:779:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Loch Modan]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:531:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:770:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Western Plaguelands]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:532:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:774:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Searing Gorge]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:533:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:769:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Silverpine Forest]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:534:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:773:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore The Hinterlands]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:535:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:778:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Duskwood]|h|r |cffffffff(|rCompleted 10/7/10|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:536:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:841:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Wetlands]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:537:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:4995:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore the Cape of Stranglethorn]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:538:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:761:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Arathi Highlands]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:539:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:781:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Northern Stranglethorn]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:540:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:771:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Eastern Plaguelands]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:09]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:541:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:868:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Isle of Quel'Danas]|h|r |cffffffff(|rCompleted 8/11/08|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460569,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:550:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:736:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Mulgore]|h|r |cffffffff(|rCompleted 14/8/09|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:551:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:842:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Teldrassil]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:552:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:750:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Northern Barrens]|h|r |cffffffff(|rCompleted 14/8/09|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:553:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:857:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Winterspring]|h|r |cffffffff(|rCompleted 13/10/12|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:554:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:851:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Tanaris]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:555:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:855:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Moonglade]|h|r |cffffffff(|rCompleted 14/8/09|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:556:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:853:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Felwood]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:557:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:856:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Silithus]|h|r |cffffffff(|rCompleted 13/10/12|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:558:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:850:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Dustwallow Marsh]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:559:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:845:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Ashenvale]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:560:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:844:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Darkshore]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:561:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:848:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Desolace]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:562:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:852:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Azshara]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:563:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:854:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Un'Goro Crater]|h|r |cffffffff(|rCompleted 17/10/08|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:564:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:847:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Stonetalon Mountains]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:565:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:728:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Durotar]|h|r |cffffffff(|rCompleted 4/3/10|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:566:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:4827:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Surveying the Damage]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:567:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:849:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Feralas]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:568:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:4996:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Southern Barrens]|h|r |cffffffff(|rCompleted 2/4/11|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:569:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:846:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Thousand Needles]|h|r |cffffffff(|rCompleted 17/10/08|cffffffff)|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:570:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:861:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Bloodmyst Isle]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:16:22]|h|r |cffd8d8d8[|r|Hplayer:Huntraa-Terenas:571:ACHIEVEMENT|h|cffa9d271Huntraa|r-|cff92cf1eTer|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:860:Player-2074-07D7351D:1:1:6:22:4294967295:4294967295:4294967295:4294967295|h[Explore Azuremyst Isle]|h|r!",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						47, -- [1]
+						false, -- [2]
+						32, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641460582,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:28:46]|h|r Loot Specialization set to: Windwalker",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 0,
+					["serverTime"] = 1641461325,
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:30:08]|h|r The Great Akazamzarak says: Gather 'round and witness mystical wonders like you've never seen before!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						42, -- [3]
+						43, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1641461407,
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:32:28]|h|r Loot Specialization set to: Windwalker",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641461548,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:33:02]|h|r Loot Specialization set to: Windwalker",
+					["serverTime"] = 1641461582,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:35:33]|h|r Loot Specialization set to: Windwalker",
+					["r"] = 1,
+					["b"] = 0,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["serverTime"] = 1641461732,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[09:35:36]|h|r Ginger Blockgear says: I must have this, the detail is outstanding!",
+					["r"] = 1,
+					["b"] = 0.6235294342041016,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						24, -- [3]
+						25, -- [4]
+						["n"] = 4,
+					},
+					["serverTime"] = 1641461735,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:22:29]|h|r Loot Specialization set to: Windwalker",
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["b"] = 0,
+					["serverTime"] = 1641475349,
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:22:53]|h|r The Great Akazamzarak says: Gather 'round and witness mystical wonders like you've never seen before!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						66, -- [3]
+						67, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1641475373,
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:23:10]|h|r The Great Akazamzarak says: Let's keep the show moving! The Great Akazamzarak appreciates your coin!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						66, -- [3]
+						67, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1641475390,
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:23:29]|h|r The Great Akazamzarak says: Gather 'round and witness mystical wonders like you've never seen before!",
+					["extraData"] = {
+						13, -- [1]
+						false, -- [2]
+						66, -- [3]
+						67, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.6235294342041016,
+					["serverTime"] = 1641475409,
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["r"] = 1,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:24:08]|h|r Loot Specialization set to: Windwalker",
+					["b"] = 0,
+					["r"] = 1,
+					["g"] = 1,
+					["timestamp"] = 20807.278,
+					["serverTime"] = 1641475448,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+				}, -- [64]
+				{
+					["message"] = "0 |4day:days;, 0 |4hour:hours;, 2 |4minute:minutes;, 22 |4second:seconds;",
+					["timestamp"] = 20807.278,
+				}, -- [65]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 20807.278,
+				}, -- [66]
+				{
+					["message"] = "|cFF00ccccAcamar |cFF00cc00At current level, block spam score set to: 2",
+					["timestamp"] = 20807.278,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:31]|h|r |cFF33FF99Acamar (1.28)|r: Enter /acamar for Acamar engine main interface",
+					["timestamp"] = 20807.278,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:31]|h|r |cFF00ccccAcamar |cFF00cc00Turn on learning engine...",
+					["timestamp"] = 20807.278,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:31]|h|r |cFF00ccccAcamar |cFF00cc00Message filtering running ...",
+					["timestamp"] = 20807.278,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:31]|h|r |cff33ff99H.H.T.D.|r: enabled! Type /HHTDG to open its option panel",
+					["timestamp"] = 20807.278,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r Loot Specialization set to: Windwalker",
+					["serverTime"] = 1641475591,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 20807.278,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[13:26:32]|h|r |cFF00ccccAcamar |cFF00cc00Standforever-Draenor was talkative in last hour and added to learning process.",
+					["timestamp"] = 20814.268,
+					["serverTime"] = 1641475591,
+				}, -- [73]
+			},
+			["maxElements"] = 128,
+			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
+			["TransformIf"] = nil --[[ skipped inline function ]],
+			["SetMaxNumElements"] = nil --[[ skipped inline function ]],
+			["GetNumElements"] = nil --[[ skipped inline function ]],
+			["GetMaxNumElements"] = nil --[[ skipped inline function ]],
+		},
+	},
+}

@@ -1,25 +1,45 @@
 
 DataStore_CraftsDB = {
 	["profileKeys"] = {
+		["Badmanting - Draenor"] = "Badmanting - Draenor",
 		["Ryugasm - Draenor"] = "Ryugasm - Draenor",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Draenor.Ryugasm"] = {
-				["lastUpdate"] = 1641828687,
+				["lastUpdate"] = 1642586713,
 				["Prof2"] = "Mining",
 				["Professions"] = {
-					["Fishing"] = {
-						["CurrentLevelName"] = "Zandalari Fishing",
-					},
-					["Mining"] = {
-						["CurrentLevelName"] = "Zandalari Mining",
-					},
 					["Cooking"] = {
 						["CurrentLevelName"] = "Zandalari Cooking",
 					},
+					["Mining"] = {
+						["CurrentLevelName"] = "Shadowlands Mining",
+					},
+					["Fishing"] = {
+						["CurrentLevelName"] = "Zandalari Fishing",
+					},
 					["Herbalism"] = {
-						["CurrentLevelName"] = "Zandalari Herbalism",
+						["CurrentLevelName"] = "Shadowlands Herbalism",
+					},
+				},
+				["Prof1"] = "Herbalism",
+			},
+			["Default.Draenor.Badmanting"] = {
+				["lastUpdate"] = 1643278670,
+				["Prof2"] = "Mining",
+				["Professions"] = {
+					["Cooking"] = {
+						["CurrentLevelName"] = "Legion Cooking",
+					},
+					["Mining"] = {
+						["CurrentLevelName"] = "Legion Mining",
+					},
+					["Fishing"] = {
+						["CurrentLevelName"] = "Legion Fishing",
+					},
+					["Herbalism"] = {
+						["CurrentLevelName"] = "Legion Herbalism",
 					},
 				},
 				["Prof1"] = "Herbalism",
@@ -29,6 +49,7 @@ DataStore_CraftsDB = {
 }
 DataStore_CraftsRefDB = {
 	["profileKeys"] = {
+		["Badmanting - Draenor"] = "Badmanting - Draenor",
 		["Ryugasm - Draenor"] = "Ryugasm - Draenor",
 	},
 }

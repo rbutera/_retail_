@@ -1,13 +1,24 @@
 
 DataStore_TalentsDB = {
 	["profileKeys"] = {
+		["Badmanting - Draenor"] = "Badmanting - Draenor",
 		["Ryugasm - Draenor"] = "Ryugasm - Draenor",
 	},
 	["global"] = {
 		["Characters"] = {
+			["Default.Draenor.Badmanting"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1643280663,
+				["Specializations"] = {
+					[2] = 3670,
+				},
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Enhancement",
+				["Class"] = "SHAMAN",
+			},
 			["Default.Draenor.Ryugasm"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1641830212,
+				["lastUpdate"] = 1642586684,
 				["Specializations"] = {
 					[3] = 9646,
 				},
@@ -20,6 +31,7 @@ DataStore_TalentsDB = {
 }
 DataStore_TalentsRefDB = {
 	["profileKeys"] = {
+		["Badmanting - Draenor"] = "Badmanting - Draenor",
 		["Ryugasm - Draenor"] = "Ryugasm - Draenor",
 	},
 	["global"] = {
@@ -60,6 +72,41 @@ DataStore_TalentsRefDB = {
 				}, -- [3]
 			},
 			["Version"] = 41793,
+		},
+		["SHAMAN"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 262,
+				}, -- [1]
+				{
+					["id"] = 263,
+					["talents"] = {
+						22354, -- [1]
+						22355, -- [2]
+						22353, -- [3]
+						22636, -- [4]
+						23462, -- [5]
+						23109, -- [6]
+						23165, -- [7]
+						19260, -- [8]
+						23166, -- [9]
+						23089, -- [10]
+						23090, -- [11]
+						22171, -- [12]
+						22144, -- [13]
+						22149, -- [14]
+						21966, -- [15]
+						21973, -- [16]
+						22352, -- [17]
+						22351, -- [18]
+					},
+				}, -- [2]
+				{
+					["id"] = 264,
+				}, -- [3]
+			},
+			["Version"] = 42010,
 		},
 	},
 }

@@ -1,6 +1,65 @@
 
 _detalhes_global = {
 	["npcid_pool"] = {
+		[113172] = "Duskwatch Rune Scribe",
+		[165974] = "Crucible Seeker",
+		[166612] = "Mawsworn Ruiner",
+		[113633] = "Doomguard Executioner",
+		[111621] = "Duskwatch Executor",
+		[115594] = "Duskwatch Adjudicator",
+		[165983] = "Mawsworn Harbinger",
+		[116013] = "Duskwatch Punisher",
+		[114873] = "Palace Warden",
+		[167834] = "Phael the Afflictor",
+		[113178] = "Archivist's Tome",
+		[114874] = "Wyrmtongue Pilferer",
+		[111619] = "Duskwatch Shroud",
+		[165976] = "Tormented Amalgamation",
+		[158991] = "Champion of the Alliance",
+		[158999] = "Eternal Jailor",
+		[157558] = "Rising Isolation",
+		[175269] = "Tremaculum Warden",
+		[158771] = "Ravenous Etherwyrm",
+		[115595] = "Duskwatch Executor",
+		[157660] = "Forsworn Ascended",
+		[158629] = "Bitter Memory",
+		[161308] = "Endless Scourge",
+		[166714] = "Ruiner Maroth",
+		[158630] = "Excruciating Memory",
+		[113166] = "Duskwatch Arcblade",
+		[113597] = "Duskwatch Adjudicator",
+		[114875] = "Felwing Purifier",
+		[169687] = "Mawsworn Soulrender",
+		[165978] = "Scavenging Mawrat",
+		[165860] = "Mawsworn Guard",
+		[168136] = "Hungering Death",
+		[167703] = "Mawsworn Guard",
+		[113332] = "Mana Hunter",
+		[113202] = "Runebound Wyrm",
+		[106654] = "Duskwatch Moonscythe",
+		[157277] = "Starved Etherwyrm",
+		[169759] = "Withering Presence",
+		[168584] = "Mawsworn Seeker",
+		[167704] = "Tremaculum Sentinel",
+		[167263] = "Tariesh",
+		[114868] = "Felborne Enforcer",
+		[109473] = "Duskwatch Shroud",
+		[114876] = "Vengeful Wrathguard",
+		[165909] = "Malice Shadow",
+		[111612] = "Duskwatch Moonscythe",
+		[167941] = "Mawsworn Interceptor",
+		[113191] = "Duskwatch Archivist",
+		[111620] = "Duskwatch Executor",
+		[159023] = "Endless Scourge",
+		[168586] = "Mawsworn Sorcerer",
+		[113585] = "Arcway Reclaimer",
+		[177071] = "Unknown",
+		[168585] = "Mawsworn Harbinger",
+		[167942] = "Mawsworn Willbreaker",
+		[115806] = "Duskwatch Punisher",
+		[168588] = "Mawsworn Guard",
+		[113168] = "Duskwatch Ley-Warden",
+		[165992] = "Mawsworn Soulrender",
 	},
 	["death_recap"] = {
 		["enabled"] = true,
@@ -10,55 +69,220 @@ _detalhes_global = {
 	},
 	["spell_pool"] = {
 		10, -- [1]
-		[101643] = 10,
-		[115129] = 10,
-		[286587] = 10,
-		[107270] = 10,
-		[101545] = 10,
-		[115098] = 10,
+		[25504] = 7,
+		[326002] = 10,
 		[132467] = 10,
-		[186403] = 10,
-		[107428] = 10,
-		[116768] = 10,
-		[138130] = 10,
-		[218164] = 10,
-		[117418] = 10,
-		[166646] = 10,
-		[2479] = 10,
-		[122470] = 10,
-		[134359] = 10,
-		[115804] = 10,
-		[261769] = 10,
-		[158221] = 10,
-		[201447] = 10,
-		[116705] = 10,
-		[261947] = 10,
-		[185099] = 10,
-		[124280] = 10,
-		[101546] = 10,
+		[17364] = 7,
+		[5394] = 7,
+		[117952] = 10,
+		[5143] = 8,
+		[336587] = 1,
 		[268311] = 10,
-		[269083] = 10,
-		[152175] = 10,
-		[196742] = 10,
-		[201787] = 10,
-		[132463] = 10,
-		[267205] = 10,
-		[143924] = 10,
-		[267179] = 10,
+		[357945] = 1,
+		[318038] = 7,
+		[124280] = 10,
+		[201447] = 10,
+		[45470] = 6,
+		[96103] = 1,
+		[186403] = 10,
+		[324161] = 10,
 		[228287] = 10,
-		[100784] = 10,
-		[100780] = 10,
-		[264408] = 10,
-		[322101] = 10,
-		[113746] = 10,
-		[261977] = 10,
-		[271843] = 10,
-		[113656] = 10,
-		[137639] = 10,
-		[196741] = 10,
-		[123586] = 10,
+		[330664] = 7,
+		[228128] = 7,
 		[285594] = 10,
+		[269083] = 10,
+		[326076] = 1,
+		[226057] = "Arcway Reclaimer",
+		[325886] = 1,
+		[95738] = 1,
+		[194311] = 6,
+		[33757] = 7,
+		[184367] = 1,
+		[2479] = 10,
+		[115804] = 10,
+		[8004] = 7,
+		[181435] = "Mana Hunter",
+		[137639] = 10,
+		[262652] = 7,
+		[267179] = 10,
+		[166646] = 10,
+		[152175] = 10,
+		[184364] = 1,
+		[275773] = 2,
+		[55090] = 6,
+		[20473] = 2,
+		[116841] = 10,
+		[186406] = 7,
+		[195707] = 1,
+		[324748] = 1,
+		["DEBUFF"] = 7,
+		[3600] = "Earthbind Totem <Badmanting>",
+		[356305] = 1,
+		[58875] = 7,
+		[5672] = "Healing Stream Totem <Badmanting>",
+		[47528] = 6,
+		[198300] = 7,
+		[185099] = 10,
+		[134359] = 10,
+		[7268] = 8,
+		[34428] = 1,
+		[1953] = 8,
+		[52174] = 1,
+		[353248] = 1,
+		[215131] = "First Arcanist Thalyssra",
+		[187878] = 7,
+		[25912] = 2,
+		[204262] = 7,
+		[47632] = 6,
+		[317103] = 10,
+		[218128] = "Duskwatch Rune Scribe",
+		[224790] = 7,
+		[215132] = 7,
+		[188389] = 7,
+		[197214] = 7,
+		[36213] = "Greater Earth Elemental <Badmanting>",
+		[51533] = 7,
+		[215802] = 7,
+		[143924] = 10,
+		[196741] = 10,
+		[1064] = 7,
+		[85948] = 6,
+		[77575] = 6,
+		[212552] = 6,
+		[224186] = 7,
+		[196884] = 7,
+		[113656] = 10,
+		[196742] = 10,
+		[225844] = "VFX Bunny",
+		[32175] = 7,
+		[221573] = "Arcway Reclaimer",
+		[188443] = 7,
+		[224187] = 7,
+		[163212] = 10,
+		[279564] = 8,
+		[122470] = 10,
+		[214226] = "Duskwatch Arcblade",
+		[257286] = 7,
+		[117418] = 10,
+		[204266] = 7,
+		[125355] = 10,
+		[123586] = 10,
+		[224762] = "Duskwatch Arcblade",
+		[261769] = 10,
+		[345980] = 1,
+		[2645] = 7,
+		[196840] = 7,
+		[51514] = 7,
+		[174464] = "Arcway Reclaimer",
+		[195757] = 6,
+		[100780] = 10,
+		[218164] = 10,
+		[279565] = 8,
+		[205648] = 7,
+		[279567] = 8,
+		[100] = 1,
+		[307871] = 1,
+		[30451] = 8,
+		[30455] = 8,
+		[116] = 8,
+		[217178] = "First Arcanist Thalyssra",
+		[204350] = 7,
+		[280715] = 1,
+		[50622] = 1,
+		[60103] = 7,
+		[342872] = 7,
+		[101546] = 10,
+		[344179] = 7,
+		[214268] = "Duskwatch Arcblade",
+		[342873] = 7,
+		[212653] = 8,
+		[260881] = 7,
+		[23881] = 1,
+		[126664] = 1,
+		[218136] = 7,
+		[224772] = 7,
+		[138130] = 10,
+		[44614] = 8,
+		[225787] = 10,
+		[5308] = 1,
+		[224189] = 7,
+		[119381] = 10,
+		[267205] = 10,
+		[115078] = 10,
 		[221771] = 10,
+		[1719] = 1,
+		[196881] = 7,
+		[192106] = 7,
+		[101643] = 10,
+		[57994] = 7,
+		[286587] = 10,
+		[201846] = 7,
+		[312215] = 1,
+		[116768] = 10,
+		[313108] = 1,
+		[201787] = 10,
+		[100784] = 10,
+		[191587] = 6,
+		[224738] = "Duskwatch Ley-Warden",
+		[342881] = 7,
+		[322101] = 10,
+		[225630] = "Unknown",
+		[312218] = 10,
+		[107270] = 10,
+		[35395] = 2,
+		[116705] = 10,
+		[546] = 7,
+		[211094] = 7,
+		[188196] = 7,
+		[333957] = 7,
+		[187874] = 7,
+		[312411] = 1,
+		[192109] = 7,
+		[52042] = "Healing Stream Totem <Badmanting>",
+		[264408] = 10,
+		[108271] = 7,
+		[218617] = 1,
+		[10444] = 7,
+		[224760] = 7,
+		[215241] = "Duskwatch Rune Scribe",
+		[107428] = 10,
+		[224740] = "Duskwatch Ley-Warden",
+		[228597] = 8,
+		[116189] = 10,
+		[190411] = 1,
+		[148022] = 8,
+		[109132] = 10,
+		[271843] = 10,
+		[85288] = 1,
+		[227723] = 7,
+		[132463] = 10,
+		[261977] = 10,
+		[228354] = 8,
+		[333964] = 7,
+		[115129] = 10,
+		[70890] = 6,
+		[181383] = "Mana Hunter",
+		[101545] = 10,
+		[335092] = 1,
+		[261947] = 10,
+		[113746] = 10,
+		[256821] = 7,
+		[280735] = 1,
+		[117313] = 1,
+		[221666] = "Arcway Reclaimer",
+		[326062] = 1,
+		[214394] = "Duskwatch Archivist",
+		[195592] = 7,
+		[115098] = 10,
+		[44425] = 8,
+		[199658] = 1,
+		[210833] = 8,
+		[46924] = 1,
+		[49998] = 6,
+		[158221] = 10,
+		[335149] = 10,
+		[47541] = 6,
+		[2484] = 7,
 	},
 	["encounter_spell_pool"] = {
 	},
@@ -677,7 +901,33 @@ _detalhes_global = {
 			},
 			["disable_alldisplays_window"] = false,
 			["deny_score_messages"] = false,
+			["hotcorner_topleft"] = {
+				["hide"] = false,
+			},
+			["trash_auto_remove"] = false,
+			["broadcaster_enabled"] = false,
+			["clear_graphic"] = true,
 			["total_abbreviation"] = 2,
+			["segments_auto_erase"] = 1,
+			["options_group_edit"] = true,
+			["segments_amount_to_save"] = 40,
+			["minimap"] = {
+				["onclick_what_todo"] = 1,
+				["radius"] = 160,
+				["hide"] = false,
+				["minimapPos"] = 220,
+				["text_format"] = 3,
+				["text_type"] = 1,
+			},
+			["instances_amount"] = 5,
+			["max_window_size"] = {
+				["height"] = 450,
+				["width"] = 480,
+			},
+			["default_bg_color"] = 0.0941,
+			["only_pvp_frags"] = false,
+			["disable_stretch_button"] = false,
+			["animation_speed_triggertravel"] = 5,
 			["class_colors"] = {
 				["HUNTER"] = {
 					0.67, -- [1]
@@ -689,10 +939,10 @@ _detalhes_global = {
 					0.61, -- [2]
 					0.43, -- [3]
 				},
-				["PALADIN"] = {
-					0.96, -- [1]
-					0.55, -- [2]
-					0.73, -- [3]
+				["ROGUE"] = {
+					1, -- [1]
+					0.96, -- [2]
+					0.41, -- [3]
 				},
 				["MAGE"] = {
 					0.41, -- [1]
@@ -724,10 +974,10 @@ _detalhes_global = {
 					0.12, -- [2]
 					0.23, -- [3]
 				},
-				["WARLOCK"] = {
-					0.58, -- [1]
-					0.51, -- [2]
-					0.79, -- [3]
+				["PET"] = {
+					0.3, -- [1]
+					0.4, -- [2]
+					0.5, -- [3]
 				},
 				["UNKNOW"] = {
 					0.2, -- [1]
@@ -739,15 +989,15 @@ _detalhes_global = {
 					1, -- [2]
 					1, -- [3]
 				},
-				["ROGUE"] = {
-					1, -- [1]
-					0.96, -- [2]
-					0.41, -- [3]
+				["WARLOCK"] = {
+					0.58, -- [1]
+					0.51, -- [2]
+					0.79, -- [3]
 				},
-				["PET"] = {
-					0.3, -- [1]
-					0.4, -- [2]
-					0.5, -- [3]
+				["PALADIN"] = {
+					0.96, -- [1]
+					0.55, -- [2]
+					0.73, -- [3]
 				},
 				["ENEMY"] = {
 					0.94117, -- [1]
@@ -777,32 +1027,6 @@ _detalhes_global = {
 					0.4, -- [3]
 				},
 			},
-			["broadcaster_enabled"] = false,
-			["clear_graphic"] = true,
-			["hotcorner_topleft"] = {
-				["hide"] = false,
-			},
-			["segments_auto_erase"] = 1,
-			["options_group_edit"] = true,
-			["segments_amount_to_save"] = 40,
-			["minimap"] = {
-				["onclick_what_todo"] = 1,
-				["radius"] = 160,
-				["hide"] = false,
-				["minimapPos"] = 220,
-				["text_format"] = 3,
-				["text_type"] = 1,
-			},
-			["instances_amount"] = 5,
-			["max_window_size"] = {
-				["height"] = 450,
-				["width"] = 480,
-			},
-			["default_bg_color"] = 0.0941,
-			["only_pvp_frags"] = false,
-			["disable_stretch_button"] = false,
-			["animation_speed_triggertravel"] = 5,
-			["trash_auto_remove"] = false,
 			["use_scroll"] = false,
 			["segments_panic_mode"] = false,
 			["overall_clear_newboss"] = true,
@@ -826,10 +1050,10 @@ _detalhes_global = {
 				{
 					["__pos"] = {
 						["normal"] = {
-							["y"] = -397.04345703125,
-							["x"] = 1045.649291992188,
-							["w"] = 454.6071472167969,
-							["h"] = 146.20751953125,
+							["y"] = -397.0435791015625,
+							["x"] = 1045.704956054688,
+							["w"] = 454.6072387695313,
+							["h"] = 146.2074432373047,
 						},
 						["solo"] = {
 							["y"] = 2,
@@ -1158,8 +1382,8 @@ _detalhes_global = {
 					["bg_alpha"] = 0.183960914611816,
 					["show_statusbar"] = false,
 					["libwindow"] = {
-						["y"] = 254.3810882568359,
-						["x"] = -15.097900390625,
+						["y"] = 254.3811492919922,
+						["x"] = -15.10107421875,
 						["point"] = "BOTTOMRIGHT",
 						["scale"] = 1,
 					},
@@ -1211,10 +1435,10 @@ _detalhes_global = {
 					["hide_in_combat"] = false,
 					["posicao"] = {
 						["normal"] = {
-							["y"] = -397.04345703125,
-							["x"] = 1045.649291992188,
-							["w"] = 454.6071472167969,
-							["h"] = 146.20751953125,
+							["y"] = -397.0435791015625,
+							["x"] = 1045.704956054688,
+							["w"] = 454.6072387695313,
+							["h"] = 146.2074432373047,
 						},
 						["solo"] = {
 							["y"] = 2,
@@ -1290,7 +1514,50 @@ _detalhes_global = {
 		["encounter_timers_dbm"] = {
 		},
 	},
-	["damage_scroll_auto_open"] = true,
+	["plater"] = {
+		["realtime_dps_enabled"] = false,
+		["damage_taken_anchor"] = {
+			["y"] = 0,
+			["x"] = 0,
+			["side"] = 7,
+		},
+		["realtime_dps_player_shadow"] = true,
+		["damage_taken_enabled"] = false,
+		["realtime_dps_player_size"] = 12,
+		["damage_taken_size"] = 12,
+		["realtime_dps_color"] = {
+			1, -- [1]
+			1, -- [2]
+			0, -- [3]
+			1, -- [4]
+		},
+		["realtime_dps_anchor"] = {
+			["y"] = 0,
+			["x"] = 0,
+			["side"] = 7,
+		},
+		["realtime_dps_size"] = 12,
+		["damage_taken_shadow"] = true,
+		["damage_taken_color"] = {
+			1, -- [1]
+			1, -- [2]
+			0, -- [3]
+			1, -- [4]
+		},
+		["realtime_dps_player_color"] = {
+			1, -- [1]
+			1, -- [2]
+			0, -- [3]
+			1, -- [4]
+		},
+		["realtime_dps_player_anchor"] = {
+			["y"] = 0,
+			["x"] = 0,
+			["side"] = 7,
+		},
+		["realtime_dps_player_enabled"] = false,
+		["realtime_dps_shadow"] = true,
+	},
 	["spell_school_cache"] = {
 	},
 	["deathlog_healingdone_min"] = 1,
@@ -1302,24 +1569,7 @@ _detalhes_global = {
 		"7 - Saving Profiles.", -- [5]
 		"8 - Saving nicktag cache.", -- [6]
 	},
-	["tutorial"] = {
-		["bookmark_tutorial"] = false,
-		["main_help_button"] = 27,
-		["alert_frames"] = {
-			false, -- [1]
-			false, -- [2]
-			false, -- [3]
-			false, -- [4]
-			false, -- [5]
-			false, -- [6]
-		},
-		["logons"] = 27,
-		["version_announce"] = 0,
-		["WINDOW_LOCK_UNLOCK1"] = true,
-		["ctrl_click_close_tutorial"] = false,
-		["unlock_button"] = 0,
-		["STREAMER_PLUGIN_FIRSTRUN"] = true,
-	},
+	["damage_scroll_auto_open"] = true,
 	["custom"] = {
 		{
 			["source"] = false,
@@ -1476,49 +1726,23 @@ _detalhes_global = {
 			["script_version"] = 1,
 		}, -- [11]
 	},
-	["plater"] = {
-		["realtime_dps_enabled"] = false,
-		["damage_taken_shadow"] = true,
-		["realtime_dps_player_shadow"] = true,
-		["damage_taken_enabled"] = false,
-		["realtime_dps_player_size"] = 12,
-		["damage_taken_size"] = 12,
-		["realtime_dps_color"] = {
-			1, -- [1]
-			1, -- [2]
-			0, -- [3]
-			1, -- [4]
+	["tutorial"] = {
+		["bookmark_tutorial"] = false,
+		["main_help_button"] = 47,
+		["alert_frames"] = {
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
 		},
-		["realtime_dps_anchor"] = {
-			["y"] = 0,
-			["x"] = 0,
-			["side"] = 7,
-		},
-		["damage_taken_anchor"] = {
-			["y"] = 0,
-			["x"] = 0,
-			["side"] = 7,
-		},
-		["realtime_dps_size"] = 12,
-		["damage_taken_color"] = {
-			1, -- [1]
-			1, -- [2]
-			0, -- [3]
-			1, -- [4]
-		},
-		["realtime_dps_player_color"] = {
-			1, -- [1]
-			1, -- [2]
-			0, -- [3]
-			1, -- [4]
-		},
-		["realtime_dps_player_anchor"] = {
-			["y"] = 0,
-			["x"] = 0,
-			["side"] = 7,
-		},
-		["realtime_dps_player_enabled"] = false,
-		["realtime_dps_shadow"] = true,
+		["logons"] = 47,
+		["version_announce"] = 0,
+		["WINDOW_LOCK_UNLOCK1"] = true,
+		["ctrl_click_close_tutorial"] = false,
+		["unlock_button"] = 0,
+		["STREAMER_PLUGIN_FIRSTRUN"] = true,
 	},
 	["latest_news_saw"] = "9.1.59213",
 	["run_code"] = {
@@ -1529,7 +1753,13 @@ _detalhes_global = {
 		["on_leavecombat"] = "\n-- this code runs when the player leave combat",
 		["on_entercombat"] = "\n-- this code runs when the player enters in combat",
 	},
-	["item_level_pool"] = {
+	["global_plugin_database"] = {
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["encounter_timers_bw"] = {
+			},
+			["encounter_timers_dbm"] = {
+			},
+		},
 	},
 	["mythic_plus"] = {
 		["make_overall_boss_only"] = false,
@@ -1552,6 +1782,12 @@ _detalhes_global = {
 	["realm_sync"] = true,
 	["current_exp_raid_encounters"] = {
 	},
+	["item_level_pool"] = {
+	},
+	["spellid_ignored"] = {
+	},
+	["createauraframe"] = {
+	},
 	["data_wipes_exp"] = {
 		["9"] = true,
 		["14"] = false,
@@ -1559,18 +1795,6 @@ _detalhes_global = {
 		["12"] = false,
 		["11"] = false,
 		["10"] = false,
-	},
-	["spellid_ignored"] = {
-	},
-	["createauraframe"] = {
-	},
-	["global_plugin_database"] = {
-		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
-			["encounter_timers_bw"] = {
-			},
-			["encounter_timers_dbm"] = {
-			},
-		},
 	},
 	["savedStyles"] = {
 	},
@@ -1848,8 +2072,8 @@ _detalhes_global = {
 	["savedTimeCaptures"] = {
 	},
 	["plugin_window_pos"] = {
-		["y"] = 4.57763671875e-05,
-		["x"] = -0.00018310546875,
+		["y"] = 6.103515625e-05,
+		["x"] = -0.0001220703125,
 		["point"] = "CENTER",
 		["scale"] = 1,
 	},

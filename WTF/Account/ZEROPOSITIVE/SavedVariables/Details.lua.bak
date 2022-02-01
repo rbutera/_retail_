@@ -1,6 +1,59 @@
 
 _detalhes_global = {
 	["npcid_pool"] = {
+		[113172] = "Duskwatch Rune Scribe",
+		[165974] = "Crucible Seeker",
+		[166612] = "Mawsworn Ruiner",
+		[113633] = "Doomguard Executioner",
+		[111621] = "Duskwatch Executor",
+		[115594] = "Duskwatch Adjudicator",
+		[165983] = "Mawsworn Harbinger",
+		[167834] = "Phael the Afflictor",
+		[165976] = "Tormented Amalgamation",
+		[158991] = "Champion of the Alliance",
+		[158999] = "Eternal Jailor",
+		[157558] = "Rising Isolation",
+		[175269] = "Tremaculum Warden",
+		[158771] = "Ravenous Etherwyrm",
+		[157660] = "Forsworn Ascended",
+		[113597] = "Duskwatch Adjudicator",
+		[115595] = "Duskwatch Executor",
+		[165992] = "Mawsworn Soulrender",
+		[158630] = "Excruciating Memory",
+		[113166] = "Duskwatch Arcblade",
+		[166714] = "Ruiner Maroth",
+		[161308] = "Endless Scourge",
+		[113178] = "Archivist's Tome",
+		[165978] = "Scavenging Mawrat",
+		[165860] = "Mawsworn Guard",
+		[168136] = "Hungering Death",
+		[167703] = "Mawsworn Guard",
+		[106654] = "Duskwatch Moonscythe",
+		[113202] = "Runebound Wyrm",
+		[113332] = "Mana Hunter",
+		[157277] = "Starved Etherwyrm",
+		[169759] = "Withering Presence",
+		[177071] = "Unknown",
+		[168586] = "Mawsworn Sorcerer",
+		[167704] = "Tremaculum Sentinel",
+		[111619] = "Duskwatch Shroud",
+		[109473] = "Duskwatch Shroud",
+		[114876] = "Vengeful Wrathguard",
+		[165909] = "Malice Shadow",
+		[111612] = "Duskwatch Moonscythe",
+		[167941] = "Mawsworn Interceptor",
+		[113191] = "Duskwatch Archivist",
+		[111620] = "Duskwatch Executor",
+		[159023] = "Endless Scourge",
+		[168584] = "Mawsworn Seeker",
+		[113585] = "Arcway Reclaimer",
+		[168585] = "Mawsworn Harbinger",
+		[158629] = "Bitter Memory",
+		[167942] = "Mawsworn Willbreaker",
+		[167263] = "Tariesh",
+		[168588] = "Mawsworn Guard",
+		[113168] = "Duskwatch Ley-Warden",
+		[169687] = "Mawsworn Soulrender",
 	},
 	["death_recap"] = {
 		["show_segments"] = false,
@@ -10,30 +63,220 @@ _detalhes_global = {
 	},
 	["spell_pool"] = {
 		10, -- [1]
-		[185099] = 10,
-		[100784] = 10,
-		[113746] = 10,
-		[107428] = 10,
-		[137639] = 10,
-		[228287] = 10,
+		[25504] = 7,
+		[326002] = 10,
+		[132467] = 10,
+		[17364] = 7,
+		[5394] = 7,
+		[117952] = 10,
+		[5143] = 8,
+		[336587] = 1,
 		[268311] = 10,
-		[101546] = 10,
-		[286587] = 10,
-		[113656] = 10,
-		[269083] = 10,
-		[267205] = 10,
-		[107270] = 10,
-		[267179] = 10,
-		[264408] = 10,
-		[221771] = 10,
-		[115804] = 10,
-		[134359] = 10,
-		[116768] = 10,
-		[2479] = 10,
+		[261977] = 10,
+		[318038] = 7,
+		[124280] = 10,
+		[201447] = 10,
+		[275773] = 2,
+		[96103] = 1,
 		[186403] = 10,
+		[324161] = 10,
+		[228287] = 10,
+		[330664] = 7,
+		[228128] = 7,
+		[285594] = 10,
+		[269083] = 10,
+		[326076] = 1,
+		[226057] = "Arcway Reclaimer",
+		[325886] = 1,
+		[95738] = 1,
+		[194311] = 6,
+		[228354] = 8,
+		[184367] = 1,
+		[2479] = 10,
+		[115804] = 10,
+		[8004] = 7,
+		[181435] = "Mana Hunter",
+		[137639] = 10,
+		[262652] = 7,
+		[267179] = 10,
 		[166646] = 10,
+		[152175] = 10,
+		[184364] = 1,
+		[33757] = 7,
+		[256821] = 7,
+		[20473] = 2,
+		[116841] = 10,
+		[186406] = 7,
+		[204262] = 7,
+		[324748] = 1,
+		[2484] = 7,
+		[196742] = 10,
+		[356305] = 1,
+		["DEBUFF"] = 7,
+		[85948] = 6,
+		[47528] = 6,
+		[198300] = 7,
+		[3600] = "Earthbind Totem <Badmanting>",
+		[134359] = 10,
+		[7268] = 8,
+		[36213] = "Greater Earth Elemental <Badmanting>",
+		[1953] = 8,
+		[52174] = 1,
+		[58875] = 7,
+		[215131] = "First Arcanist Thalyssra",
+		[187878] = 7,
+		[25912] = 2,
+		[195592] = 7,
+		[47632] = 6,
+		[221666] = "Arcway Reclaimer",
+		[218128] = "Duskwatch Rune Scribe",
+		[224790] = 7,
+		[215132] = 7,
+		[188389] = 7,
+		[279565] = 8,
+		[34428] = 1,
+		[5672] = "Healing Stream Totem <Badmanting>",
+		[215802] = 7,
+		[143924] = 10,
+		[196741] = 10,
+		[353248] = 1,
+		[197214] = 7,
+		[1064] = 7,
+		[51533] = 7,
+		[224186] = 7,
+		[214394] = "Duskwatch Archivist",
+		[113656] = 10,
+		[212552] = 6,
+		[225844] = "VFX Bunny",
+		[196884] = 7,
+		[221573] = "Arcway Reclaimer",
+		[32175] = 7,
+		[224187] = 7,
+		[46924] = 1,
+		[174464] = "Arcway Reclaimer",
+		[122470] = 10,
+		[188443] = 7,
 		[100780] = 10,
 		[117418] = 10,
+		[204266] = 7,
+		[125355] = 10,
+		[123586] = 10,
+		[224762] = "Duskwatch Arcblade",
+		[261769] = 10,
+		[217178] = "First Arcanist Thalyssra",
+		[2645] = 7,
+		[196840] = 7,
+		[163212] = 10,
+		[279564] = 8,
+		[214226] = "Duskwatch Arcblade",
+		[77575] = 6,
+		[257286] = 7,
+		[195757] = 6,
+		[218164] = 10,
+		[60103] = 7,
+		[100] = 1,
+		[307871] = 1,
+		[30451] = 8,
+		[30455] = 8,
+		[116] = 8,
+		[279567] = 8,
+		[204350] = 7,
+		[280715] = 1,
+		[50622] = 1,
+		[205648] = 7,
+		[181383] = "Mana Hunter",
+		[101546] = 10,
+		[344179] = 7,
+		[218136] = 7,
+		[342873] = 7,
+		[212653] = 8,
+		[214268] = "Duskwatch Arcblade",
+		[23881] = 1,
+		[271843] = 10,
+		[126664] = 1,
+		[260881] = 7,
+		[138130] = 10,
+		[44614] = 8,
+		[192106] = 7,
+		[5308] = 1,
+		[224189] = 7,
+		[119381] = 10,
+		[225787] = 10,
+		[107428] = 10,
+		[221771] = 10,
+		[1719] = 1,
+		[224772] = 7,
+		[312215] = 1,
+		[101643] = 10,
+		[218617] = 1,
+		[286587] = 10,
+		[196881] = 7,
+		[57994] = 7,
+		[116768] = 10,
+		[313108] = 1,
+		[201846] = 7,
+		[225630] = "Unknown",
+		[201787] = 10,
+		[108271] = 7,
+		[35395] = 2,
+		[100784] = 10,
+		[342881] = 7,
+		[333957] = 7,
+		[322101] = 10,
+		[312218] = 10,
+		[107270] = 10,
+		[546] = 7,
+		[211094] = 7,
+		[188196] = 7,
+		[187874] = 7,
+		[192109] = 7,
+		[312411] = 1,
+		[224738] = "Duskwatch Ley-Warden",
+		[52042] = "Healing Stream Totem <Badmanting>",
+		[264408] = 10,
+		[116705] = 10,
+		[10444] = 7,
+		[191587] = 6,
+		[224760] = 7,
+		[215241] = "Duskwatch Rune Scribe",
+		[116189] = 10,
+		[224740] = "Duskwatch Ley-Warden",
+		[228597] = 8,
+		[148022] = 8,
+		[190411] = 1,
+		[115078] = 10,
+		[267205] = 10,
+		[357945] = 1,
+		[227723] = 7,
+		[109132] = 10,
+		[132463] = 10,
+		[85288] = 1,
+		[317103] = 10,
+		[333964] = 7,
+		[115129] = 10,
+		[345980] = 1,
+		[70890] = 6,
+		[335149] = 10,
+		[101545] = 10,
+		[335092] = 1,
+		[261947] = 10,
+		[342872] = 7,
+		[280735] = 1,
+		[117313] = 1,
+		[113746] = 10,
+		[326062] = 1,
+		[55090] = 6,
+		[185099] = 10,
+		[115098] = 10,
+		[44425] = 8,
+		[199658] = 1,
+		[51514] = 7,
+		[210833] = 8,
+		[49998] = 6,
+		[158221] = 10,
+		[45470] = 6,
+		[47541] = 6,
+		[195707] = 1,
 	},
 	["encounter_spell_pool"] = {
 	},
@@ -357,8 +600,8 @@ _detalhes_global = {
 				["line_height"] = 17,
 				["tooltip_max_targets"] = 2,
 				["icon_size"] = {
-					["W"] = 13,
-					["H"] = 13,
+					["W"] = 17,
+					["H"] = 17,
 				},
 				["tooltip_max_pets"] = 2,
 				["anchor_relative"] = "top",
@@ -376,7 +619,7 @@ _detalhes_global = {
 					0.196, -- [1]
 					0.196, -- [2]
 					0.196, -- [3]
-					0.8697, -- [4]
+					0.8, -- [4]
 				},
 				["submenu_wallpaper"] = true,
 				["fontsize_title"] = 10,
@@ -501,10 +744,10 @@ _detalhes_global = {
 				{
 					["__pos"] = {
 						["normal"] = {
-							["y"] = -397.04345703125,
-							["x"] = 1045.649780273438,
-							["w"] = 454.6071472167969,
-							["h"] = 146.20751953125,
+							["y"] = -397.0435791015625,
+							["x"] = 1045.704956054688,
+							["w"] = 454.6072387695313,
+							["h"] = 146.2074432373047,
 						},
 						["solo"] = {
 							["y"] = 2,
@@ -833,8 +1076,8 @@ _detalhes_global = {
 					["bg_alpha"] = 0.183960914611816,
 					["show_statusbar"] = false,
 					["libwindow"] = {
-						["y"] = 254.3810882568359,
-						["x"] = -15.097412109375,
+						["y"] = 254.3811492919922,
+						["x"] = -15.10107421875,
 						["point"] = "BOTTOMRIGHT",
 						["scale"] = 1,
 					},
@@ -886,10 +1129,10 @@ _detalhes_global = {
 					["hide_in_combat"] = false,
 					["posicao"] = {
 						["normal"] = {
-							["y"] = -397.04345703125,
-							["x"] = 1045.649780273438,
-							["w"] = 454.6071472167969,
-							["h"] = 146.20751953125,
+							["y"] = -397.0435791015625,
+							["x"] = 1045.704956054688,
+							["w"] = 454.6072387695313,
+							["h"] = 146.2074432373047,
 						},
 						["solo"] = {
 							["y"] = 2,
@@ -1094,32 +1337,10 @@ _detalhes_global = {
 			},
 			["disable_alldisplays_window"] = false,
 			["use_scroll"] = false,
-			["hotcorner_topleft"] = {
-				["hide"] = false,
-			},
+			["total_abbreviation"] = 2,
 			["segments_auto_erase"] = 1,
 			["segments_amount_to_save"] = 40,
 			["clear_graphic"] = true,
-			["trash_auto_remove"] = false,
-			["animation_speed_triggertravel"] = 5,
-			["options_group_edit"] = true,
-			["broadcaster_enabled"] = false,
-			["minimap"] = {
-				["onclick_what_todo"] = 1,
-				["radius"] = 160,
-				["text_type"] = 1,
-				["minimapPos"] = 220,
-				["text_format"] = 3,
-				["hide"] = false,
-			},
-			["instances_amount"] = 5,
-			["max_window_size"] = {
-				["height"] = 450,
-				["width"] = 480,
-			},
-			["default_bg_color"] = 0.0941,
-			["only_pvp_frags"] = false,
-			["disable_stretch_button"] = false,
 			["class_colors"] = {
 				["HUNTER"] = {
 					0.67, -- [1]
@@ -1131,10 +1352,10 @@ _detalhes_global = {
 					0.61, -- [2]
 					0.43, -- [3]
 				},
-				["ROGUE"] = {
-					1, -- [1]
-					0.96, -- [2]
-					0.41, -- [3]
+				["SHAMAN"] = {
+					0, -- [1]
+					0.44, -- [2]
+					0.87, -- [3]
 				},
 				["MAGE"] = {
 					0.41, -- [1]
@@ -1166,10 +1387,10 @@ _detalhes_global = {
 					0.12, -- [2]
 					0.23, -- [3]
 				},
-				["PET"] = {
-					0.3, -- [1]
-					0.4, -- [2]
-					0.5, -- [3]
+				["WARLOCK"] = {
+					0.58, -- [1]
+					0.51, -- [2]
+					0.79, -- [3]
 				},
 				["UNKNOW"] = {
 					0.2, -- [1]
@@ -1181,15 +1402,15 @@ _detalhes_global = {
 					1, -- [2]
 					1, -- [3]
 				},
-				["WARLOCK"] = {
-					0.58, -- [1]
-					0.51, -- [2]
-					0.79, -- [3]
-				},
 				["PALADIN"] = {
 					0.96, -- [1]
 					0.55, -- [2]
 					0.73, -- [3]
+				},
+				["ROGUE"] = {
+					1, -- [1]
+					0.96, -- [2]
+					0.41, -- [3]
 				},
 				["ENEMY"] = {
 					0.94117, -- [1]
@@ -1208,10 +1429,10 @@ _detalhes_global = {
 					1, -- [2]
 					0, -- [3]
 				},
-				["SHAMAN"] = {
-					0, -- [1]
-					0.44, -- [2]
-					0.87, -- [3]
+				["PET"] = {
+					0.3, -- [1]
+					0.4, -- [2]
+					0.5, -- [3]
 				},
 				["ARENA_GREEN"] = {
 					0.4, -- [1]
@@ -1219,7 +1440,29 @@ _detalhes_global = {
 					0.4, -- [3]
 				},
 			},
-			["total_abbreviation"] = 2,
+			["animation_speed_triggertravel"] = 5,
+			["options_group_edit"] = true,
+			["broadcaster_enabled"] = false,
+			["minimap"] = {
+				["onclick_what_todo"] = 1,
+				["radius"] = 160,
+				["text_type"] = 1,
+				["minimapPos"] = 220,
+				["text_format"] = 3,
+				["hide"] = false,
+			},
+			["instances_amount"] = 5,
+			["max_window_size"] = {
+				["height"] = 450,
+				["width"] = 480,
+			},
+			["default_bg_color"] = 0.0941,
+			["only_pvp_frags"] = false,
+			["disable_stretch_button"] = false,
+			["trash_auto_remove"] = false,
+			["hotcorner_topleft"] = {
+				["hide"] = false,
+			},
 			["deny_score_messages"] = false,
 			["segments_panic_mode"] = false,
 			["overall_flag"] = 16,
@@ -1262,13 +1505,31 @@ _detalhes_global = {
 		["encounter_timers_dbm"] = {
 		},
 	},
+	["tutorial"] = {
+		["unlock_button"] = 0,
+		["main_help_button"] = 46,
+		["alert_frames"] = {
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+		},
+		["logons"] = 46,
+		["version_announce"] = 0,
+		["ctrl_click_close_tutorial"] = false,
+		["WINDOW_LOCK_UNLOCK1"] = true,
+		["bookmark_tutorial"] = false,
+		["STREAMER_PLUGIN_FIRSTRUN"] = true,
+	},
+	["spell_school_cache"] = {
+	},
+	["deathlog_healingdone_min"] = 1,
+	["last_changelog_size"] = 10362,
 	["plater"] = {
 		["realtime_dps_enabled"] = false,
-		["damage_taken_anchor"] = {
-			["y"] = 0,
-			["x"] = 0,
-			["side"] = 7,
-		},
+		["realtime_dps_size"] = 12,
 		["realtime_dps_player_shadow"] = true,
 		["damage_taken_enabled"] = false,
 		["realtime_dps_player_size"] = 12,
@@ -1284,8 +1545,12 @@ _detalhes_global = {
 			["x"] = 0,
 			["side"] = 7,
 		},
-		["realtime_dps_size"] = 12,
 		["damage_taken_shadow"] = true,
+		["damage_taken_anchor"] = {
+			["y"] = 0,
+			["x"] = 0,
+			["side"] = 7,
+		},
 		["damage_taken_color"] = {
 			1, -- [1]
 			1, -- [2]
@@ -1306,34 +1571,12 @@ _detalhes_global = {
 		["realtime_dps_player_enabled"] = false,
 		["realtime_dps_shadow"] = true,
 	},
-	["spell_school_cache"] = {
-	},
-	["deathlog_healingdone_min"] = 1,
-	["last_changelog_size"] = 10362,
-	["damage_scroll_auto_open"] = true,
 	["damage_scroll_position"] = {
 	},
-	["tutorial"] = {
-		["unlock_button"] = 0,
-		["main_help_button"] = 26,
-		["alert_frames"] = {
-			false, -- [1]
-			false, -- [2]
-			false, -- [3]
-			false, -- [4]
-			false, -- [5]
-			false, -- [6]
-		},
-		["logons"] = 26,
-		["version_announce"] = 0,
-		["ctrl_click_close_tutorial"] = false,
-		["WINDOW_LOCK_UNLOCK1"] = true,
-		["bookmark_tutorial"] = false,
-		["STREAMER_PLUGIN_FIRSTRUN"] = true,
-	},
+	["damage_scroll_auto_open"] = true,
 	["plugin_window_pos"] = {
-		["y"] = 4.57763671875e-05,
-		["x"] = -0.00018310546875,
+		["y"] = 6.103515625e-05,
+		["x"] = -0.0001220703125,
 		["point"] = "CENTER",
 		["scale"] = 1,
 	},
@@ -1355,13 +1598,13 @@ _detalhes_global = {
 		["last_mythicrun_chart"] = {
 		},
 	},
-	["global_plugin_database"] = {
-		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
-			["encounter_timers_bw"] = {
-			},
-			["encounter_timers_dbm"] = {
-			},
-		},
+	["data_wipes_exp"] = {
+		["9"] = true,
+		["14"] = false,
+		["13"] = false,
+		["12"] = false,
+		["11"] = false,
+		["10"] = false,
 	},
 	["run_code"] = {
 		["on_groupchange"] = "\n-- this code runs when the player enter or leave a group",
@@ -1375,18 +1618,18 @@ _detalhes_global = {
 	},
 	["current_exp_raid_encounters"] = {
 	},
-	["item_level_pool"] = {
+	["global_plugin_database"] = {
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["encounter_timers_bw"] = {
+			},
+			["encounter_timers_dbm"] = {
+			},
+		},
 	},
 	["realm_sync"] = true,
 	["createauraframe"] = {
 	},
-	["data_wipes_exp"] = {
-		["9"] = true,
-		["14"] = false,
-		["13"] = false,
-		["12"] = false,
-		["11"] = false,
-		["10"] = false,
+	["item_level_pool"] = {
 	},
 	["profile_by_spec"] = {
 	},

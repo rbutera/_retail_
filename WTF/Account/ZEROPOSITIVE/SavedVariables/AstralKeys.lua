@@ -1,53 +1,5 @@
 
 AstralKeys = {
-	{
-		["btag"] = "Heier#2286",
-		["weekly_best"] = 16,
-		["class"] = "WARLOCK",
-		["key_level"] = 16,
-		["unit"] = "Afilifin-Ragnaros",
-		["dungeon_id"] = 379,
-		["week"] = 233,
-		["faction"] = "1",
-		["time_stamp"] = 465249,
-		["source"] = "friend",
-	}, -- [1]
-	{
-		["btag"] = "Heier#2286",
-		["weekly_best"] = 7,
-		["class"] = "DEATHKNIGHT",
-		["key_level"] = 8,
-		["unit"] = "Unfreddy-Draenor",
-		["dungeon_id"] = 379,
-		["week"] = 233,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [2]
-	{
-		["btag"] = "Heier#2286",
-		["weekly_best"] = 0,
-		["class"] = "MONK",
-		["key_level"] = 14,
-		["unit"] = "Afilee-Draenor",
-		["dungeon_id"] = 379,
-		["week"] = 233,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [3]
-	{
-		["btag"] = "Heier#2286",
-		["weekly_best"] = 0,
-		["class"] = "DEMONHUNTER",
-		["key_level"] = 7,
-		["unit"] = "Afili-Draenor",
-		["dungeon_id"] = 378,
-		["week"] = 233,
-		["faction"] = "1",
-		["time_stamp"] = 0,
-		["source"] = "friend",
-	}, -- [4]
 }
 AstralCharacters = {
 }
@@ -57,7 +9,7 @@ AstralKeysSettings = {
 		["show_minimap_button"] = {
 			["isEnabled"] = true,
 		},
-		["init_time"] = 1641970800,
+		["init_time"] = 1643785200,
 		["expanded_tooltip"] = {
 			["isEnabled"] = true,
 		},
@@ -115,9 +67,12 @@ AstralKeysSettings = {
 }
 AstralMinimap = {
 	["profileKeys"] = {
+		["Badmanting - Draenor"] = "Badmanting - Draenor",
 		["Ryugasm - Draenor"] = "Ryugasm - Draenor",
 	},
 	["profiles"] = {
+		["Badmanting - Draenor"] = {
+		},
 		["Ryugasm - Draenor"] = {
 			["minimap"] = {
 				["minimapPos"] = 309.6890374594653,
@@ -140,8 +95,9 @@ AstralLists = {
 	{
 		["name"] = "FRIENDS",
 		["units"] = {
-			["Afilifin-Ragnaros"] = "Heier#2286",
 			["Unfreddy-Draenor"] = "Heier#2286",
+			["Afilifin-Ragnaros"] = "Heier#2286",
+			["Uleera-Draenor"] = "Heier#2286",
 			["Afilee-Draenor"] = "Heier#2286",
 			["Afili-Draenor"] = "Heier#2286",
 		},

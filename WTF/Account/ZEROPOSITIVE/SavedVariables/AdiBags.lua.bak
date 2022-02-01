@@ -18,11 +18,31 @@ AdiBagsDB = {
 		},
 		["MoneyFrame"] = {
 		},
+		["ItemSets"] = {
+		},
 		["CurrencyFrame"] = {
+			["profiles"] = {
+				["Default"] = {
+					["shown"] = {
+						["Legionfall War Supplies"] = false,
+						["Darkmoon Prize Ticket"] = false,
+						["Nethershard"] = false,
+						["Seal of Broken Fate"] = false,
+						["Sightless Eye"] = false,
+						["Wakening Essence"] = false,
+						["Oil"] = false,
+						["Apexis Crystal"] = false,
+						["Veiled Argunite"] = false,
+						["Curious Coin"] = false,
+						["Garrison Resources"] = false,
+						["Order Resources"] = false,
+						["Valor"] = false,
+						["Timewarped Badge"] = false,
+					},
+				},
+			},
 		},
 		["DataSource"] = {
-		},
-		["ItemSets"] = {
 		},
 		["Junk"] = {
 		},
@@ -30,10 +50,17 @@ AdiBagsDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Badmanting - Draenor"] = "Default",
 		["Ryugasm - Draenor"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["positions"] = {
+				["anchor"] = {
+					["xOffset"] = -40.555908203125,
+					["yOffset"] = 657.7096557617188,
+				},
+			},
 		},
 	},
 }

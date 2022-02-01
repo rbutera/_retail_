@@ -1,105 +1,149 @@
 
 HidingBarDB = {
-	["tstmp"] = 1641475592,
+	["tstmp"] = 1643278673,
 	["profiles"] = {
 		{
 			["isDefault"] = true,
 			["config"] = {
 				["addFromDataBroker"] = true,
 				["btnSettings"] = {
+					["TradeSkillMaster"] = {
+						["tstmp"] = 1643278673,
+					},
+					["Altoholic"] = {
+						false, -- [1]
+						["tstmp"] = 1643278673,
+					},
 					["Hekili"] = {
-						["tstmp"] = 1641475592,
+						true, -- [1]
+						["tstmp"] = 1643278673,
 					},
 					["BigWigs"] = {
-						["tstmp"] = 1641475592,
+						true, -- [1]
+						["tstmp"] = 1643278673,
 					},
 					["InstanceAchievementTracker"] = {
-						["tstmp"] = 1641475592,
+						["tstmp"] = 1641475607,
 					},
-					["TradeSkillMaster"] = {
-						["tstmp"] = 1641475592,
+					["BtWQuests"] = {
+						["tstmp"] = 1643278673,
 					},
 					["Bartender4"] = {
-						["tstmp"] = 1641475449,
+						true, -- [1]
+						["tstmp"] = 1643278673,
 					},
 					["GatherMate2"] = {
-						["tstmp"] = 1641475592,
+						true, -- [1]
+						["tstmp"] = 1643278673,
 					},
 					["AcamarBtn"] = {
-						["tstmp"] = 1641475592,
+						false, -- [1]
+						["tstmp"] = 1643278673,
 					},
 					["TwitchEmotes"] = {
-						["tstmp"] = 1641475592,
+						false, -- [1]
+						["tstmp"] = 1643278673,
 					},
 					["LootAppraiser"] = {
-						["tstmp"] = 1641475592,
+						["tstmp"] = 1641475607,
 					},
 					["AskMrRobot"] = {
-						["tstmp"] = 1641475449,
+						true, -- [1]
+						["tstmp"] = 1643278673,
 					},
 					["Prat"] = {
-						["tstmp"] = 1641475592,
+						["tstmp"] = 1641475607,
 					},
 					["Parrot"] = {
 						["tstmp"] = 1641459981,
 					},
 					["WeakAuras"] = {
-						["tstmp"] = 1641475592,
+						true, -- [1]
+						["tstmp"] = 1643278673,
 					},
 					["Masque"] = {
-						["tstmp"] = 1641475449,
+						true, -- [1]
+						["tstmp"] = 1643278673,
 					},
 				},
 				["grabMinimap"] = true,
 				["grabMinimapAfterN"] = 1,
 				["mbtnSettings"] = {
 					["LibDBIcon10_RareScannerMinimapIcon"] = {
-						["tstmp"] = 1641475592,
+						true, -- [1]
+						["tstmp"] = 1643278673,
 					},
 					["LibDBIcon10_TwitchEmotes"] = {
-						["tstmp"] = 1641475592,
+						true, -- [1]
+						["tstmp"] = 1643278673,
 					},
 					["LibDBIcon10_AskMrRobot"] = {
-						["tstmp"] = 1641475449,
+						true, -- [1]
+						["tstmp"] = 1643278673,
 					},
-					["LibDBIcon10_Leatrix_Plus"] = {
-						["tstmp"] = 1641475592,
-					},
-					["LibDBIcon10_BigWigs"] = {
-						["tstmp"] = 1641475592,
-					},
-					["LibDBIcon10_LootAppraiser"] = {
-						["tstmp"] = 1641475592,
-					},
-					["LibDBIcon10_TradeSkillMaster"] = {
-						["tstmp"] = 1641475592,
-					},
-					["LibDBIcon10_Acamar"] = {
-						["tstmp"] = 1641475592,
-					},
-					["LibDBIcon10_Bartender4"] = {
-						["tstmp"] = 1641475449,
-					},
-					["LibDBIcon10_Details"] = {
-						["tstmp"] = 1641475592,
-					},
-					["LibDBIcon10_Plater"] = {
-						["tstmp"] = 1641475449,
-					},
-					["LibDBIcon10_DetailsStreamer"] = {
-						["tstmp"] = 1641475592,
-					},
-					["LibDBIcon10_WeakAuras"] = {
-						["tstmp"] = 1641475592,
-					},
-					["LibDBIcon10_InstanceAchievementTracker"] = {
-						["tstmp"] = 1641475592,
+					["BtWQuestsMinimapButton"] = {
+						false, -- [1]
+						["tstmp"] = 1643278673,
 					},
 					["LibDBIcon10_MythicDungeonTools"] = {
 						["tstmp"] = 1641475449,
 					},
+					["LibDBIcon10_AstralKeys"] = {
+						true, -- [1]
+						["tstmp"] = 1643278673,
+					},
+					["LibDBIcon10_Leatrix_Plus"] = {
+						["tstmp"] = 1643278673,
+					},
+					["LibDBIcon10_Details"] = {
+						true, -- [1]
+						["tstmp"] = 1643278673,
+					},
+					["AltoholicMinimapButton"] = {
+						false, -- [1]
+						["tstmp"] = 1643278673,
+					},
+					["LibDBIcon10_BigWigs"] = {
+						true, -- [1]
+						["tstmp"] = 1643278673,
+					},
+					["LibDBIcon10_TradeSkillMaster"] = {
+						true, -- [1]
+						["tstmp"] = 1643278673,
+					},
+					["LibDBIcon10_Acamar"] = {
+						true, -- [1]
+						["tstmp"] = 1643278673,
+					},
+					["LibDBIcon10_Bartender4"] = {
+						true, -- [1]
+						["tstmp"] = 1643278673,
+					},
+					["LibDBIcon10_InstanceAchievementTracker"] = {
+						["tstmp"] = 1641475607,
+					},
+					["LibDBIcon10_SimulationCraft"] = {
+						true, -- [1]
+						["tstmp"] = 1643278673,
+					},
+					["LibDBIcon10_DetailsStreamer"] = {
+						true, -- [1]
+						["tstmp"] = 1643278673,
+					},
+					["LibDBIcon10_WeakAuras"] = {
+						true, -- [1]
+						["tstmp"] = 1643278673,
+					},
+					["LibDBIcon10_Plater"] = {
+						true, -- [1]
+						["tstmp"] = 1643278673,
+					},
+					["LibDBIcon10_LootAppraiser"] = {
+						["tstmp"] = 1641475607,
+					},
 					["LibDBIcon10_Hekili"] = {
-						["tstmp"] = 1641475592,
+						true, -- [1]
+						["tstmp"] = 1643278673,
 					},
 				},
 				["customGrabList"] = {
@@ -153,6 +197,48 @@ HidingBarDB = {
 					},
 					["name"] = "Bar 1",
 				}, -- [1]
+				{
+					["name"] = "Bar 2",
+					["config"] = {
+						["lineWidth"] = 4,
+						["secondPosition"] = 0,
+						["rangeBetweenBtns"] = 0,
+						["showHandler"] = 2,
+						["expand"] = 2,
+						["showDelay"] = 0,
+						["hideDelay"] = 0.75,
+						["anchor"] = "top",
+						["barOffset"] = 2,
+						["buttonDirection"] = {
+							["V"] = 0,
+							["H"] = 0,
+						},
+						["size"] = 10,
+						["omb"] = {
+							["anchor"] = "right",
+							["hide"] = true,
+							["size"] = 31,
+						},
+						["buttonSize"] = 31,
+						["frameStrata"] = 2,
+						["lineColor"] = {
+							0.8, -- [1]
+							0.6, -- [2]
+							0, -- [3]
+						},
+						["fadeOpacity"] = 0.2,
+						["position"] = 682.6981811523438,
+						["orientation"] = 0,
+						["barTypePosition"] = 0,
+						["mbtnPosition"] = 2,
+						["bgColor"] = {
+							0.1, -- [1]
+							0.1, -- [2]
+							0.1, -- [3]
+							0.7, -- [4]
+						},
+					},
+				}, -- [2]
 			},
 		}, -- [1]
 	},
